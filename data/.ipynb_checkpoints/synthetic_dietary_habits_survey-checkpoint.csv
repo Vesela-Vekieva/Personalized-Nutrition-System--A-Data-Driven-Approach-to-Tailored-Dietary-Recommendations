@@ -1,0 +1,1001 @@
+Age,Gender,BMI,Diet_Type,Daily_Fruit_Intake,Daily_Vegetable_Intake,Daily_Meal_Count,Snack_Frequency,Water_Intake_Liters,Soda_Intake_Liters,Exercise_Frequency,Alcohol_Consumption,Smoking_Status,Health_Condition,Height_cm,Weight_kg
+57,Other,27.1,Vegan,0,2,2,Rarely,3.82,1.05,3-4 times/week,High,Former Smoker,Heart Disease,193.2,101.2
+47,Male,29.1,Vegan,0,4,5,Rarely,3.34,0.52,None,Occasional,Former Smoker,Heart Disease,174.2,88.3
+19,Other,15.9,Omnivore,4,1,5,Sometimes,1.93,1.94,None,Moderate,Non-Smoker,Heart Disease,194.8,60.4
+21,Other,27.1,Pescatarian,3,4,1,Sometimes,3.56,1.95,None,High,Non-Smoker,Heart Disease,177.0,84.8
+34,Female,19.4,Pescatarian,1,4,4,Often,2.5,1.87,3-4 times/week,Moderate,Non-Smoker,Diabetes,182.3,64.4
+18,Other,17.8,Pescatarian,0,4,3,Always,1.18,1.39,5+ times/week,High,Non-Smoker,Heart Disease,193.8,66.8
+51,Male,45.2,Vegan,0,3,4,Never,1.79,0.43,1-2 times/week,Moderate,Current Smoker,None,161.1,117.3
+62,Other,22.0,Vegan,1,2,2,Sometimes,1.63,0.07,5+ times/week,Occasional,Former Smoker,None,164.5,59.6
+44,Female,26.1,Vegan,2,3,1,Rarely,1.62,1.63,None,Moderate,Non-Smoker,None,187.1,91.5
+32,Female,21.0,Vegan,2,4,4,Always,1.64,1.46,1-2 times/week,High,Current Smoker,Heart Disease,193.5,78.5
+51,Other,25.8,Omnivore,1,0,1,Rarely,3.32,0.74,3-4 times/week,Occasional,Former Smoker,None,188.9,92.1
+39,Other,39.1,Vegetarian,2,4,1,Always,2.38,1.46,None,Occasional,Former Smoker,Hypertension,157.9,97.4
+35,Male,25.7,Vegetarian,0,1,1,Always,2.33,1.13,1-2 times/week,High,Former Smoker,Hypertension,184.8,87.8
+27,Other,29.5,Vegetarian,2,4,1,Never,0.6,0.1,1-2 times/week,None,Current Smoker,Heart Disease,196.1,113.5
+50,Other,16.5,Omnivore,3,1,2,Always,3.62,0.26,None,Occasional,Current Smoker,Diabetes,191.0,60.3
+55,Male,40.9,Pescatarian,3,1,4,Never,2.34,1.1,None,Occasional,Current Smoker,Hypertension,168.2,115.6
+59,Other,33.0,Vegetarian,2,0,5,Always,1.15,0.32,5+ times/week,Moderate,Non-Smoker,Heart Disease,157.9,82.4
+67,Female,22.7,Pescatarian,4,2,4,Always,1.66,0.22,5+ times/week,None,Current Smoker,Hypertension,161.2,59.1
+20,Female,37.7,Vegetarian,3,2,2,Often,0.88,0.82,3-4 times/week,Moderate,Current Smoker,Diabetes,171.7,111.1
+24,Male,46.0,Vegan,2,1,1,Rarely,3.88,1.79,5+ times/week,High,Current Smoker,Hypertension,160.1,117.9
+41,Other,28.4,Omnivore,3,2,2,Often,3.57,0.33,3-4 times/week,High,Former Smoker,Heart Disease,155.2,68.3
+66,Other,39.2,Omnivore,4,2,3,Rarely,1.19,1.21,None,High,Former Smoker,Heart Disease,168.1,110.7
+60,Other,26.7,Omnivore,3,2,5,Often,2.11,1.7,5+ times/week,Moderate,Current Smoker,None,192.4,99.0
+45,Female,29.7,Omnivore,4,0,3,Always,2.68,1.93,1-2 times/week,Occasional,Former Smoker,Heart Disease,192.1,109.5
+47,Other,24.8,Vegetarian,2,4,1,Sometimes,1.18,0.42,3-4 times/week,High,Current Smoker,Hypertension,174.2,75.3
+29,Female,43.1,Vegan,4,2,1,Never,1.35,1.88,5+ times/week,High,Former Smoker,None,153.2,101.1
+57,Male,37.8,Omnivore,0,1,4,Never,3.39,0.02,1-2 times/week,High,Current Smoker,Heart Disease,167.7,106.3
+25,Male,32.7,Vegetarian,2,0,5,Never,1.57,0.12,1-2 times/week,Moderate,Non-Smoker,None,170.7,95.2
+63,Female,33.8,Omnivore,3,1,5,Rarely,1.12,0.6,None,High,Former Smoker,Hypertension,162.2,88.9
+41,Female,27.9,Omnivore,2,3,3,Sometimes,2.39,0.96,None,High,Non-Smoker,Heart Disease,172.4,82.9
+36,Female,41.6,Vegan,0,4,1,Never,2.51,0.25,5+ times/week,High,Former Smoker,Diabetes,150.4,94.1
+21,Female,27.4,Vegetarian,0,1,4,Sometimes,1.26,0.57,5+ times/week,None,Former Smoker,Diabetes,195.0,104.2
+58,Other,38.5,Vegetarian,0,1,1,Never,0.65,0.81,3-4 times/week,Moderate,Current Smoker,Heart Disease,153.7,91.0
+44,Other,35.1,Vegan,1,0,4,Never,3.84,1.2,3-4 times/week,High,Current Smoker,Hypertension,176.0,108.8
+45,Female,40.6,Vegan,4,2,4,Rarely,3.44,0.06,None,High,Non-Smoker,Diabetes,163.4,108.5
+58,Male,33.1,Omnivore,4,3,1,Sometimes,2.27,1.22,None,None,Former Smoker,Heart Disease,184.2,112.3
+45,Female,33.2,Pescatarian,3,1,1,Rarely,3.27,1.19,None,Occasional,Non-Smoker,Diabetes,187.3,116.3
+46,Other,18.7,Pescatarian,1,1,2,Always,2.87,1.61,None,High,Non-Smoker,Heart Disease,189.1,66.7
+44,Male,19.7,Omnivore,4,0,5,Sometimes,2.33,0.32,3-4 times/week,High,Former Smoker,Hypertension,169.1,56.4
+51,Male,29.8,Omnivore,4,3,1,Sometimes,2.32,1.14,5+ times/week,Moderate,Current Smoker,None,163.6,79.7
+45,Other,35.9,Pescatarian,3,1,3,Sometimes,3.16,1.72,5+ times/week,Moderate,Current Smoker,Diabetes,168.1,101.5
+31,Male,14.9,Vegetarian,4,3,1,Often,1.11,0.33,3-4 times/week,High,Former Smoker,Diabetes,198.6,58.7
+19,Other,26.3,Omnivore,0,3,4,Always,1.37,0.77,None,High,Current Smoker,None,176.1,81.7
+43,Other,17.6,Vegetarian,2,3,2,Rarely,0.69,1.14,3-4 times/week,Occasional,Non-Smoker,None,177.8,55.5
+32,Female,17.1,Vegetarian,3,1,2,Sometimes,2.8,0.0,1-2 times/week,Occasional,Former Smoker,None,177.7,53.9
+56,Female,48.9,Vegan,1,3,1,Sometimes,2.4,0.23,None,None,Former Smoker,Hypertension,152.3,113.4
+59,Female,34.1,Omnivore,3,0,1,Always,0.9,1.04,None,None,Former Smoker,Diabetes,151.8,78.5
+22,Other,32.4,Vegetarian,0,0,2,Often,1.05,1.54,3-4 times/week,None,Former Smoker,None,152.1,74.9
+55,Male,38.2,Vegetarian,4,0,2,Rarely,0.84,1.91,5+ times/week,None,Non-Smoker,Hypertension,168.0,107.9
+30,Male,14.8,Vegetarian,0,4,5,Sometimes,1.89,0.27,1-2 times/week,High,Non-Smoker,None,196.6,57.1
+57,Female,30.7,Pescatarian,2,4,3,Rarely,0.78,1.08,None,None,Current Smoker,Diabetes,172.9,91.7
+27,Female,17.4,Pescatarian,1,0,5,Sometimes,1.06,0.03,5+ times/week,Occasional,Non-Smoker,Heart Disease,184.2,58.9
+21,Male,19.5,Omnivore,4,0,3,Always,2.54,1.88,None,None,Former Smoker,None,163.5,52.2
+51,Other,18.9,Vegetarian,1,0,3,Always,1.19,0.77,5+ times/week,Occasional,Non-Smoker,Heart Disease,180.9,61.9
+21,Male,26.4,Vegan,3,3,5,Rarely,3.18,1.4,1-2 times/week,None,Non-Smoker,Diabetes,157.7,65.7
+41,Other,33.7,Vegetarian,4,3,4,Always,3.97,1.83,None,None,Former Smoker,Heart Disease,164.1,90.8
+69,Other,20.5,Pescatarian,3,3,5,Rarely,1.8,0.54,5+ times/week,None,Former Smoker,Diabetes,187.8,72.3
+39,Female,16.6,Omnivore,3,4,3,Always,2.94,1.28,1-2 times/week,Occasional,Non-Smoker,None,179.6,53.5
+56,Male,19.5,Omnivore,2,3,2,Never,2.36,0.25,5+ times/week,None,Non-Smoker,None,167.5,54.7
+42,Male,25.7,Pescatarian,4,0,4,Never,0.9,1.62,None,None,Current Smoker,Diabetes,154.3,61.3
+41,Female,16.6,Pescatarian,1,4,2,Rarely,2.07,0.34,5+ times/week,Occasional,Former Smoker,Hypertension,196.1,63.8
+22,Male,23.7,Vegetarian,2,1,3,Never,2.43,0.59,3-4 times/week,High,Former Smoker,Heart Disease,196.4,91.4
+65,Male,23.8,Vegan,2,0,5,Always,3.74,1.86,3-4 times/week,Moderate,Non-Smoker,Heart Disease,162.2,62.6
+22,Other,44.1,Vegetarian,2,2,4,Never,0.58,0.42,3-4 times/week,Moderate,Former Smoker,None,162.9,117.0
+58,Male,40.2,Pescatarian,0,4,4,Rarely,2.27,0.9,1-2 times/week,None,Non-Smoker,Diabetes,153.3,94.4
+46,Female,24.0,Omnivore,1,3,3,Rarely,3.6,0.52,5+ times/week,Moderate,Former Smoker,Hypertension,172.6,71.5
+42,Other,19.7,Pescatarian,1,0,1,Always,3.64,1.89,1-2 times/week,None,Current Smoker,Hypertension,161.6,51.4
+39,Female,30.4,Omnivore,2,4,4,Rarely,0.98,0.64,None,High,Former Smoker,Hypertension,161.6,79.3
+56,Female,18.7,Vegan,4,4,3,Often,1.7,1.58,5+ times/week,Moderate,Current Smoker,None,176.1,58.0
+60,Female,27.2,Vegan,0,3,4,Rarely,2.15,0.68,1-2 times/week,None,Former Smoker,Hypertension,170.1,78.6
+22,Female,31.8,Vegan,2,3,5,Rarely,2.69,1.75,1-2 times/week,High,Non-Smoker,Diabetes,163.8,85.3
+27,Male,17.3,Vegetarian,0,3,2,Never,1.71,1.38,5+ times/week,High,Non-Smoker,None,176.1,53.8
+67,Female,29.5,Vegetarian,3,3,1,Often,2.46,0.76,1-2 times/week,None,Current Smoker,None,177.4,92.8
+46,Male,30.9,Omnivore,1,2,1,Often,2.12,0.96,3-4 times/week,None,Non-Smoker,Hypertension,156.1,75.2
+25,Male,26.0,Pescatarian,4,4,2,Rarely,3.18,0.64,5+ times/week,None,Former Smoker,Heart Disease,175.0,79.5
+23,Male,16.1,Vegetarian,1,3,3,Often,1.44,0.27,5+ times/week,None,Former Smoker,Heart Disease,195.5,61.4
+31,Female,25.8,Omnivore,3,4,3,Never,1.65,0.01,3-4 times/week,High,Former Smoker,Hypertension,151.5,59.3
+33,Other,16.2,Vegetarian,2,2,2,Rarely,1.23,1.43,None,Moderate,Former Smoker,Hypertension,199.8,64.5
+39,Male,44.9,Vegan,0,3,3,Rarely,3.87,1.77,None,Moderate,Non-Smoker,Hypertension,163.0,119.3
+49,Other,16.2,Omnivore,0,2,4,Often,2.5,1.65,1-2 times/week,Moderate,Former Smoker,Heart Disease,178.5,51.7
+20,Female,27.6,Vegetarian,3,1,3,Rarely,3.74,0.46,None,Occasional,Non-Smoker,Hypertension,174.1,83.7
+38,Other,35.8,Omnivore,2,3,5,Never,3.25,1.22,1-2 times/week,None,Current Smoker,Hypertension,182.1,118.6
+36,Male,29.4,Vegan,0,2,2,Rarely,1.17,1.41,1-2 times/week,High,Non-Smoker,Diabetes,182.4,97.7
+45,Female,26.0,Omnivore,2,1,3,Rarely,2.98,1.53,3-4 times/week,Moderate,Non-Smoker,None,197.5,101.4
+28,Male,31.9,Omnivore,3,0,5,Always,3.88,0.86,3-4 times/week,Moderate,Non-Smoker,Hypertension,176.5,99.3
+53,Other,23.0,Pescatarian,0,2,5,Never,1.42,0.77,None,High,Non-Smoker,Diabetes,180.8,75.3
+41,Male,43.6,Pescatarian,0,2,3,Often,1.56,1.3,None,High,Non-Smoker,Heart Disease,157.1,107.6
+20,Other,29.2,Omnivore,0,3,4,Sometimes,2.66,0.84,5+ times/week,High,Former Smoker,None,179.9,94.4
+53,Other,36.0,Vegetarian,4,1,2,Sometimes,1.79,0.22,5+ times/week,Occasional,Current Smoker,Hypertension,152.0,83.1
+50,Other,25.1,Vegan,0,1,2,Always,2.22,0.91,1-2 times/week,Occasional,Former Smoker,Hypertension,194.3,94.8
+62,Other,35.8,Pescatarian,4,4,1,Rarely,2.05,1.36,1-2 times/week,Moderate,Non-Smoker,Diabetes,159.8,91.3
+49,Female,43.7,Vegetarian,1,1,1,Rarely,1.18,1.51,1-2 times/week,Moderate,Current Smoker,None,154.8,104.7
+53,Other,35.1,Pescatarian,3,2,2,Rarely,1.57,0.92,None,Occasional,Former Smoker,Hypertension,169.2,100.6
+37,Other,22.6,Omnivore,3,2,1,Always,3.05,0.01,5+ times/week,None,Former Smoker,None,193.9,85.0
+36,Female,24.4,Pescatarian,0,1,5,Always,3.61,0.72,None,High,Non-Smoker,Diabetes,179.5,78.7
+59,Other,34.6,Vegetarian,4,4,3,Never,1.36,1.93,5+ times/week,High,Current Smoker,Heart Disease,164.2,93.3
+43,Other,21.9,Omnivore,2,4,1,Sometimes,1.49,0.69,1-2 times/week,Occasional,Former Smoker,Hypertension,193.9,82.5
+30,Female,32.3,Vegetarian,4,2,1,Often,3.37,0.8,1-2 times/week,High,Former Smoker,Hypertension,180.2,105.0
+54,Female,31.1,Omnivore,3,0,5,Never,3.43,1.87,5+ times/week,Occasional,Non-Smoker,None,188.3,110.3
+28,Male,25.5,Pescatarian,4,2,5,Sometimes,0.97,0.4,3-4 times/week,Moderate,Current Smoker,Heart Disease,194.7,96.7
+57,Female,25.0,Vegetarian,1,1,1,Often,2.57,1.9,1-2 times/week,None,Current Smoker,Heart Disease,188.6,88.9
+29,Male,24.0,Vegetarian,0,3,2,Always,3.26,0.87,3-4 times/week,None,Current Smoker,Hypertension,191.2,87.8
+64,Other,39.6,Vegetarian,0,3,3,Always,1.74,1.07,3-4 times/week,Occasional,Non-Smoker,Diabetes,151.6,91.0
+59,Male,35.1,Vegetarian,1,2,4,Rarely,3.86,0.46,5+ times/week,High,Current Smoker,None,180.5,114.5
+68,Other,18.1,Omnivore,4,4,1,Rarely,1.63,0.78,None,Occasional,Non-Smoker,Heart Disease,189.6,65.0
+62,Female,41.4,Omnivore,0,0,4,Often,2.35,0.13,1-2 times/week,High,Non-Smoker,Diabetes,165.4,113.2
+65,Female,37.3,Vegan,2,1,4,Never,1.52,1.27,3-4 times/week,Occasional,Former Smoker,Heart Disease,178.9,119.4
+53,Female,25.1,Vegan,1,0,4,Always,2.22,1.96,None,Moderate,Non-Smoker,None,198.4,98.7
+62,Other,24.6,Vegan,2,1,5,Never,1.81,0.66,3-4 times/week,High,Non-Smoker,Diabetes,200.0,98.4
+31,Female,19.3,Vegetarian,3,3,2,Always,2.82,1.55,1-2 times/week,Moderate,Former Smoker,Hypertension,172.6,57.6
+40,Other,41.0,Vegan,2,4,1,Never,2.76,1.47,1-2 times/week,Occasional,Non-Smoker,Heart Disease,169.0,117.2
+65,Male,32.0,Pescatarian,4,2,3,Always,3.74,1.78,5+ times/week,Occasional,Former Smoker,None,191.2,117.0
+57,Female,17.8,Omnivore,0,4,5,Rarely,2.01,0.74,5+ times/week,None,Non-Smoker,Heart Disease,168.4,50.5
+36,Female,26.7,Pescatarian,1,2,5,Often,2.39,1.52,None,High,Former Smoker,Hypertension,189.0,95.2
+41,Male,14.6,Vegetarian,2,0,1,Often,3.09,0.61,3-4 times/week,None,Non-Smoker,Hypertension,195.3,55.6
+54,Other,29.3,Vegetarian,4,1,3,Often,1.17,1.46,1-2 times/week,High,Current Smoker,None,190.1,105.8
+28,Female,26.2,Pescatarian,2,3,4,Rarely,3.33,1.07,5+ times/week,High,Non-Smoker,None,185.5,90.0
+23,Female,43.0,Vegan,2,1,2,Rarely,3.53,0.4,3-4 times/week,High,Non-Smoker,None,163.7,115.2
+44,Female,30.6,Pescatarian,3,1,4,Always,2.62,0.68,1-2 times/week,Moderate,Current Smoker,Diabetes,167.4,85.7
+63,Other,31.5,Pescatarian,2,3,1,Sometimes,2.55,0.32,3-4 times/week,Occasional,Current Smoker,Hypertension,180.4,102.6
+24,Female,23.5,Omnivore,2,4,2,Never,2.58,0.11,5+ times/week,High,Current Smoker,Heart Disease,197.1,91.1
+64,Female,21.5,Vegan,3,1,1,Often,2.28,0.49,5+ times/week,High,Former Smoker,Heart Disease,199.6,85.5
+33,Male,27.8,Pescatarian,3,3,1,Sometimes,1.4,1.64,1-2 times/week,Occasional,Non-Smoker,Hypertension,167.0,77.4
+58,Male,21.8,Vegan,1,1,1,Rarely,2.03,1.82,3-4 times/week,High,Current Smoker,Diabetes,181.0,71.3
+68,Other,39.4,Pescatarian,2,4,5,Sometimes,1.27,0.61,None,None,Former Smoker,Hypertension,174.3,119.8
+26,Female,36.1,Omnivore,3,2,2,Always,0.85,1.78,None,Occasional,Current Smoker,Heart Disease,164.8,98.0
+40,Other,25.0,Vegetarian,4,0,2,Never,0.94,1.59,None,Moderate,Non-Smoker,Hypertension,153.6,59.0
+60,Other,32.8,Omnivore,3,4,5,Rarely,2.75,0.46,1-2 times/week,Moderate,Non-Smoker,Heart Disease,187.9,115.8
+39,Other,31.9,Pescatarian,4,0,5,Often,2.43,0.73,None,Moderate,Current Smoker,Diabetes,156.8,78.4
+57,Other,27.5,Vegetarian,0,3,5,Rarely,0.73,1.78,3-4 times/week,High,Current Smoker,Diabetes,155.5,66.5
+37,Female,31.6,Pescatarian,2,3,4,Always,3.33,1.46,None,Occasional,Current Smoker,Hypertension,194.6,119.5
+35,Female,28.2,Vegetarian,4,1,3,Sometimes,0.58,0.82,None,Moderate,Former Smoker,Heart Disease,183.5,95.0
+69,Female,30.0,Omnivore,3,3,2,Often,3.78,1.41,None,High,Current Smoker,Diabetes,150.8,68.2
+26,Female,30.0,Vegetarian,0,0,1,Never,2.37,0.67,1-2 times/week,None,Current Smoker,Hypertension,167.2,83.8
+31,Female,17.9,Pescatarian,2,3,2,Always,1.68,0.59,5+ times/week,None,Current Smoker,None,185.2,61.4
+54,Male,37.2,Vegan,4,2,5,Rarely,1.11,1.44,1-2 times/week,None,Current Smoker,Heart Disease,168.5,105.5
+38,Female,25.6,Vegetarian,4,4,1,Sometimes,3.42,0.48,1-2 times/week,None,Current Smoker,Diabetes,167.7,72.1
+48,Male,21.6,Vegan,3,0,3,Rarely,0.69,0.95,5+ times/week,Moderate,Former Smoker,None,187.1,75.7
+28,Male,30.7,Vegan,2,0,3,Often,0.76,1.47,3-4 times/week,High,Non-Smoker,Diabetes,196.8,118.9
+46,Male,18.0,Vegetarian,0,0,3,Often,3.04,1.56,None,Occasional,Former Smoker,Hypertension,194.4,68.0
+26,Other,33.2,Omnivore,1,3,5,Never,3.51,1.58,1-2 times/week,None,Non-Smoker,Hypertension,178.6,105.8
+52,Other,18.8,Vegan,4,2,3,Rarely,2.24,0.43,1-2 times/week,Moderate,Current Smoker,Diabetes,194.1,70.7
+26,Male,13.0,Vegan,3,2,2,Always,3.54,1.13,3-4 times/week,None,Current Smoker,Hypertension,197.4,50.6
+31,Male,30.2,Vegetarian,4,1,5,Rarely,3.56,1.69,None,Occasional,Non-Smoker,None,150.2,68.1
+57,Male,29.9,Vegan,2,3,1,Sometimes,3.5,1.44,5+ times/week,Occasional,Non-Smoker,Hypertension,197.1,116.3
+34,Female,34.6,Pescatarian,3,4,5,Always,2.81,1.57,None,None,Former Smoker,Heart Disease,159.0,87.4
+43,Male,30.6,Vegetarian,1,1,3,Always,3.13,0.4,1-2 times/week,High,Current Smoker,Heart Disease,179.3,98.5
+42,Male,27.1,Vegan,2,2,3,Rarely,3.58,0.18,None,None,Former Smoker,Hypertension,164.5,73.4
+21,Female,22.7,Vegan,3,2,2,Often,3.28,0.78,1-2 times/week,Occasional,Non-Smoker,None,159.2,57.6
+39,Male,27.6,Vegan,0,1,2,Rarely,3.79,0.73,1-2 times/week,Moderate,Non-Smoker,None,195.0,105.0
+50,Female,27.7,Vegetarian,2,2,4,Sometimes,2.0,0.25,3-4 times/week,High,Current Smoker,Hypertension,162.7,73.3
+57,Female,19.7,Omnivore,2,3,4,Often,1.22,0.42,5+ times/week,High,Current Smoker,Diabetes,165.0,53.5
+32,Other,30.4,Vegan,0,1,2,Always,3.78,1.97,None,Moderate,Former Smoker,Heart Disease,151.7,69.9
+57,Male,30.9,Pescatarian,2,3,4,Sometimes,3.8,1.91,1-2 times/week,Occasional,Current Smoker,Diabetes,184.5,105.3
+20,Other,27.9,Vegetarian,1,3,2,Rarely,1.75,0.14,5+ times/week,None,Non-Smoker,Diabetes,179.7,90.2
+34,Male,42.1,Omnivore,2,0,1,Always,1.64,1.06,None,None,Non-Smoker,None,153.1,98.6
+30,Female,39.1,Vegetarian,0,3,2,Often,1.57,1.68,None,None,Current Smoker,Diabetes,168.4,111.0
+37,Male,27.9,Vegan,4,0,4,Never,2.98,0.36,5+ times/week,Moderate,Non-Smoker,Diabetes,170.6,81.2
+62,Female,36.9,Vegan,0,3,1,Often,1.92,0.52,None,Moderate,Current Smoker,Diabetes,158.7,92.9
+59,Male,20.7,Vegan,3,3,3,Always,0.76,0.96,5+ times/week,Occasional,Non-Smoker,None,177.5,65.1
+64,Female,17.0,Vegan,0,1,3,Always,3.46,0.04,5+ times/week,Moderate,Former Smoker,Diabetes,175.7,52.4
+59,Male,23.6,Vegan,1,0,1,Rarely,1.14,1.74,None,High,Former Smoker,None,160.4,60.8
+63,Other,32.4,Vegetarian,3,1,2,Always,0.72,1.31,None,None,Former Smoker,Hypertension,171.2,95.0
+39,Male,29.0,Vegan,3,2,1,Never,2.25,1.19,None,High,Former Smoker,Diabetes,195.3,110.6
+41,Male,18.2,Pescatarian,4,4,3,Sometimes,1.24,0.82,3-4 times/week,High,Former Smoker,None,173.8,55.1
+38,Other,29.5,Vegetarian,0,1,4,Often,2.54,1.88,1-2 times/week,None,Non-Smoker,Heart Disease,187.1,103.1
+25,Other,33.3,Pescatarian,0,4,3,Always,1.34,1.66,1-2 times/week,High,Current Smoker,Hypertension,176.8,104.1
+57,Other,27.7,Pescatarian,3,2,4,Often,1.78,0.46,5+ times/week,Moderate,Current Smoker,Heart Disease,175.2,85.0
+18,Male,18.4,Vegan,2,2,4,Sometimes,2.76,0.26,5+ times/week,High,Current Smoker,Diabetes,197.7,71.9
+29,Male,29.1,Pescatarian,4,3,1,Often,1.32,0.6,3-4 times/week,Moderate,Non-Smoker,Diabetes,150.2,65.7
+26,Male,35.7,Pescatarian,3,2,5,Never,1.27,0.35,1-2 times/week,Moderate,Current Smoker,Heart Disease,162.7,94.5
+56,Other,29.5,Vegetarian,3,0,5,Rarely,1.46,0.27,1-2 times/week,None,Non-Smoker,Hypertension,195.1,112.4
+69,Male,26.8,Vegetarian,1,4,1,Sometimes,0.7,1.15,3-4 times/week,None,Non-Smoker,Diabetes,156.7,65.8
+42,Female,41.7,Pescatarian,2,2,5,Never,3.12,1.45,1-2 times/week,High,Former Smoker,Heart Disease,161.7,109.1
+53,Male,23.8,Omnivore,2,3,1,Sometimes,2.14,1.7,3-4 times/week,High,Current Smoker,Heart Disease,182.5,79.3
+41,Male,24.9,Vegetarian,4,3,4,Always,2.99,0.63,1-2 times/week,Occasional,Former Smoker,None,167.7,69.9
+44,Female,29.1,Pescatarian,2,2,5,Often,3.47,1.67,1-2 times/week,Occasional,Current Smoker,Heart Disease,167.9,82.0
+25,Male,14.0,Vegetarian,0,4,1,Sometimes,2.1,0.12,1-2 times/week,Occasional,Non-Smoker,None,189.1,50.1
+58,Male,39.0,Vegetarian,4,2,4,Rarely,2.62,1.08,5+ times/week,Moderate,Former Smoker,Hypertension,172.9,116.5
+49,Female,29.9,Vegan,0,1,4,Often,0.54,0.49,5+ times/week,Occasional,Current Smoker,Diabetes,178.1,94.7
+38,Female,19.1,Vegetarian,0,2,2,Always,2.73,1.48,3-4 times/week,Occasional,Former Smoker,Heart Disease,194.8,72.4
+29,Female,29.8,Pescatarian,2,2,5,Sometimes,1.21,1.66,None,High,Current Smoker,Heart Disease,197.8,116.4
+46,Other,22.1,Vegetarian,4,4,4,Rarely,1.97,0.09,None,Moderate,Non-Smoker,Diabetes,189.4,79.4
+29,Male,48.5,Vegan,0,2,5,Often,1.17,1.98,5+ times/week,Occasional,Non-Smoker,Hypertension,150.4,109.8
+62,Other,40.4,Vegetarian,1,3,2,Always,3.96,1.26,3-4 times/week,High,Former Smoker,Heart Disease,169.6,116.2
+32,Male,36.0,Pescatarian,0,1,3,Always,0.76,0.56,5+ times/week,High,Former Smoker,Diabetes,151.8,82.9
+59,Other,17.0,Pescatarian,2,2,2,Always,1.53,1.58,5+ times/week,Moderate,Former Smoker,None,197.3,66.1
+46,Male,46.5,Omnivore,1,1,5,Never,2.73,2.0,3-4 times/week,Occasional,Current Smoker,Diabetes,157.2,114.9
+36,Other,30.8,Omnivore,4,4,5,Rarely,3.39,0.25,3-4 times/week,Moderate,Current Smoker,Diabetes,194.2,116.0
+38,Male,30.1,Vegan,0,1,5,Sometimes,3.76,0.77,5+ times/week,Moderate,Current Smoker,None,152.4,69.9
+26,Other,17.9,Vegan,0,3,5,Always,2.24,0.05,3-4 times/week,Occasional,Current Smoker,Hypertension,182.7,59.9
+34,Other,23.2,Vegetarian,2,4,1,Never,1.22,1.97,3-4 times/week,Occasional,Non-Smoker,None,173.4,69.7
+36,Other,30.3,Vegetarian,4,1,5,Never,0.84,0.37,None,High,Current Smoker,Diabetes,184.6,103.2
+47,Female,35.5,Pescatarian,3,2,5,Always,2.14,0.25,None,High,Former Smoker,Diabetes,182.3,118.1
+28,Other,25.9,Vegan,1,2,4,Sometimes,1.15,1.0,3-4 times/week,None,Non-Smoker,Hypertension,171.2,75.8
+59,Male,17.0,Vegan,2,3,3,Sometimes,2.68,0.48,3-4 times/week,None,Former Smoker,Diabetes,184.0,57.5
+18,Female,43.3,Pescatarian,3,1,4,Rarely,1.68,0.09,None,Occasional,Non-Smoker,Heart Disease,161.3,112.6
+29,Other,30.1,Pescatarian,3,0,2,Often,0.95,1.27,3-4 times/week,Occasional,Non-Smoker,Hypertension,172.3,89.4
+29,Female,35.2,Omnivore,2,3,5,Often,0.51,1.51,1-2 times/week,High,Non-Smoker,None,151.0,80.2
+64,Male,34.4,Vegetarian,0,0,2,Never,3.39,1.39,None,Occasional,Former Smoker,None,172.8,102.6
+38,Other,27.8,Pescatarian,0,4,5,Sometimes,2.78,0.8,1-2 times/week,High,Current Smoker,Heart Disease,167.8,78.4
+49,Female,29.3,Vegetarian,2,2,2,Rarely,1.92,0.17,3-4 times/week,Occasional,Non-Smoker,Diabetes,152.7,68.3
+34,Female,32.5,Pescatarian,3,4,5,Always,1.96,1.62,3-4 times/week,Moderate,Current Smoker,None,153.5,76.5
+43,Other,27.1,Vegan,4,2,5,Sometimes,3.35,0.54,3-4 times/week,Occasional,Former Smoker,Hypertension,172.9,81.1
+45,Male,27.2,Omnivore,3,3,4,Rarely,0.51,0.21,3-4 times/week,Occasional,Former Smoker,Heart Disease,184.5,92.5
+30,Female,31.9,Vegetarian,3,3,3,Often,2.19,1.9,5+ times/week,Moderate,Former Smoker,None,169.7,92.0
+59,Female,34.7,Vegan,1,3,1,Always,2.17,0.93,5+ times/week,High,Non-Smoker,Diabetes,150.3,78.5
+68,Other,21.3,Pescatarian,0,0,5,Sometimes,2.09,0.4,1-2 times/week,None,Non-Smoker,Heart Disease,190.9,77.5
+39,Other,31.1,Pescatarian,1,3,1,Rarely,3.59,1.89,5+ times/week,Occasional,Current Smoker,Diabetes,184.3,105.7
+50,Other,46.8,Vegan,0,4,3,Rarely,3.49,1.87,1-2 times/week,High,Former Smoker,None,151.6,107.5
+40,Male,47.0,Vegan,3,1,4,Sometimes,3.35,0.12,5+ times/week,High,Former Smoker,Hypertension,157.1,116.1
+26,Female,28.7,Omnivore,3,4,2,Often,2.18,1.73,3-4 times/week,High,Non-Smoker,Heart Disease,153.1,67.3
+55,Female,20.6,Omnivore,1,1,3,Never,0.91,1.59,None,None,Current Smoker,Diabetes,181.9,68.1
+41,Male,32.2,Omnivore,2,2,2,Never,0.67,0.09,1-2 times/week,High,Current Smoker,Hypertension,182.7,107.6
+58,Female,17.6,Vegan,3,1,1,Sometimes,2.48,1.85,3-4 times/week,Occasional,Non-Smoker,Hypertension,195.6,67.3
+47,Female,21.8,Vegan,4,0,4,Sometimes,3.19,1.4,5+ times/week,Moderate,Former Smoker,Hypertension,168.5,61.8
+21,Other,21.9,Vegan,3,1,1,Always,1.79,1.51,None,High,Current Smoker,Hypertension,183.0,73.4
+58,Male,25.5,Omnivore,0,3,3,Often,2.28,1.18,3-4 times/week,High,Non-Smoker,Diabetes,187.4,89.6
+33,Male,27.4,Omnivore,3,2,1,Sometimes,0.88,0.84,None,None,Former Smoker,None,157.1,67.6
+56,Female,27.7,Vegan,1,0,1,Never,3.46,1.27,5+ times/week,Occasional,Former Smoker,Heart Disease,172.8,82.7
+36,Male,31.7,Vegetarian,2,3,2,Always,2.15,1.61,None,Occasional,Former Smoker,Heart Disease,153.1,74.4
+60,Male,13.5,Vegetarian,0,3,4,Often,2.15,1.74,3-4 times/week,Moderate,Former Smoker,Hypertension,195.5,51.5
+28,Male,25.9,Omnivore,0,0,5,Always,0.76,1.2,1-2 times/week,High,Former Smoker,Diabetes,198.0,101.5
+66,Other,20.3,Pescatarian,4,3,3,Often,0.92,0.78,None,Occasional,Former Smoker,Hypertension,184.4,68.9
+68,Female,22.4,Pescatarian,2,1,5,Rarely,3.35,0.94,1-2 times/week,Occasional,Non-Smoker,Diabetes,168.5,63.7
+66,Other,17.1,Vegetarian,4,0,1,Often,1.08,1.18,3-4 times/week,None,Non-Smoker,Heart Disease,192.6,63.4
+68,Female,36.0,Vegetarian,1,2,1,Never,2.91,0.37,1-2 times/week,Moderate,Non-Smoker,None,156.5,88.1
+64,Female,30.8,Omnivore,3,3,3,Often,3.48,1.83,None,Occasional,Current Smoker,Hypertension,191.1,112.5
+45,Female,20.8,Vegan,0,4,5,Rarely,2.12,1.32,1-2 times/week,Moderate,Current Smoker,None,164.2,56.2
+60,Male,22.6,Vegan,4,2,5,Often,2.92,1.04,None,None,Non-Smoker,Hypertension,170.3,65.6
+59,Male,29.0,Vegetarian,3,2,5,Always,1.92,1.28,1-2 times/week,None,Current Smoker,Diabetes,191.7,106.7
+31,Female,33.6,Vegetarian,2,0,3,Sometimes,3.98,0.23,None,High,Former Smoker,Heart Disease,171.0,98.3
+60,Female,28.3,Omnivore,4,2,1,Often,0.82,1.79,1-2 times/week,High,Non-Smoker,Hypertension,178.2,89.9
+30,Other,23.5,Omnivore,4,4,3,Always,1.6,1.28,1-2 times/week,None,Former Smoker,Diabetes,192.4,87.1
+44,Female,21.9,Vegetarian,1,0,4,Sometimes,3.8,0.71,3-4 times/week,None,Non-Smoker,Hypertension,171.5,64.5
+39,Female,21.5,Pescatarian,3,4,3,Never,3.73,0.81,5+ times/week,Occasional,Non-Smoker,Diabetes,185.5,74.0
+56,Male,22.4,Vegan,4,3,4,Never,3.73,0.25,None,None,Non-Smoker,None,161.6,58.4
+64,Other,23.6,Vegetarian,2,0,2,Often,2.29,0.61,None,None,Former Smoker,Diabetes,194.7,89.6
+69,Other,14.9,Omnivore,0,0,2,Never,2.89,0.48,5+ times/week,Occasional,Non-Smoker,Diabetes,196.6,57.7
+49,Female,21.6,Omnivore,3,2,4,Rarely,3.75,1.66,5+ times/week,High,Non-Smoker,None,195.5,82.6
+39,Other,32.8,Pescatarian,3,2,5,Often,2.14,1.22,3-4 times/week,High,Current Smoker,Hypertension,184.9,112.3
+46,Other,24.1,Vegan,1,2,4,Always,2.22,0.32,5+ times/week,Moderate,Current Smoker,Heart Disease,182.6,80.2
+48,Male,29.8,Omnivore,1,3,4,Never,3.64,0.5,1-2 times/week,Moderate,Current Smoker,Diabetes,153.4,70.2
+58,Other,40.2,Vegetarian,1,4,3,Sometimes,2.95,1.52,1-2 times/week,Moderate,Former Smoker,None,170.9,117.3
+33,Female,17.9,Vegan,2,1,1,Rarely,1.48,0.88,3-4 times/week,Moderate,Former Smoker,Heart Disease,175.4,55.1
+25,Female,26.3,Pescatarian,3,4,4,Never,3.3,0.56,1-2 times/week,Occasional,Non-Smoker,Heart Disease,178.5,83.7
+36,Other,44.4,Pescatarian,4,0,5,Always,2.88,1.48,1-2 times/week,None,Non-Smoker,Diabetes,161.1,115.3
+31,Female,24.0,Vegan,1,1,5,Always,3.75,1.36,1-2 times/week,High,Current Smoker,None,191.2,87.8
+29,Female,23.0,Pescatarian,4,0,3,Never,1.0,1.77,5+ times/week,High,Former Smoker,Hypertension,186.6,80.2
+33,Male,21.1,Vegetarian,3,3,4,Often,1.58,1.19,None,Moderate,Current Smoker,Diabetes,170.5,61.2
+40,Female,44.4,Pescatarian,1,4,5,Rarely,3.95,1.86,5+ times/week,None,Non-Smoker,None,157.4,109.9
+62,Male,43.5,Vegan,2,4,1,Often,3.37,1.85,None,None,Current Smoker,None,159.4,110.4
+23,Female,39.8,Omnivore,0,2,4,Often,1.75,1.24,1-2 times/week,Occasional,Current Smoker,Heart Disease,160.8,103.0
+29,Male,18.7,Vegan,3,1,3,Sometimes,2.82,0.9,5+ times/week,Occasional,Non-Smoker,Diabetes,168.9,53.4
+51,Other,21.5,Vegetarian,3,0,2,Always,2.58,1.15,5+ times/week,None,Current Smoker,Diabetes,172.6,64.0
+27,Other,25.6,Vegan,1,0,2,Rarely,1.01,0.58,1-2 times/week,None,Current Smoker,Heart Disease,161.9,67.1
+47,Female,32.7,Vegetarian,3,4,3,Often,1.26,0.31,None,High,Former Smoker,None,182.9,109.4
+38,Female,38.8,Pescatarian,3,2,3,Always,1.92,0.96,None,Occasional,Non-Smoker,Hypertension,169.5,111.4
+53,Male,24.4,Pescatarian,0,3,1,Often,1.39,1.41,5+ times/week,Moderate,Non-Smoker,Diabetes,151.9,56.4
+26,Other,33.9,Vegan,1,0,5,Rarely,3.44,0.32,None,Occasional,Former Smoker,Heart Disease,179.5,109.3
+48,Male,29.9,Pescatarian,0,4,5,Never,3.02,1.32,1-2 times/week,High,Former Smoker,Hypertension,188.5,106.1
+69,Other,24.0,Pescatarian,3,3,1,Rarely,3.57,1.58,1-2 times/week,High,Non-Smoker,Diabetes,185.2,82.3
+56,Female,21.8,Omnivore,0,4,1,Always,1.46,1.96,1-2 times/week,Occasional,Current Smoker,None,157.6,54.2
+28,Female,17.8,Vegetarian,3,3,5,Often,1.16,1.24,5+ times/week,High,Non-Smoker,Hypertension,182.5,59.2
+18,Female,27.9,Vegan,3,3,2,Often,0.75,1.09,3-4 times/week,High,Current Smoker,Diabetes,159.3,70.8
+56,Female,22.9,Vegan,3,3,3,Never,2.2,1.87,3-4 times/week,High,Current Smoker,Hypertension,151.8,52.8
+45,Other,17.8,Omnivore,0,2,4,Always,1.78,1.42,None,None,Non-Smoker,Diabetes,195.0,67.8
+56,Female,32.2,Vegan,2,1,1,Never,1.0,0.42,None,Occasional,Current Smoker,Diabetes,171.6,94.8
+40,Female,30.8,Vegetarian,0,3,2,Never,0.91,1.21,5+ times/week,Moderate,Former Smoker,Diabetes,193.5,115.3
+24,Male,32.0,Pescatarian,2,3,4,Never,3.55,0.6,1-2 times/week,Occasional,Former Smoker,Diabetes,187.8,112.7
+39,Other,27.5,Pescatarian,3,4,3,Never,1.1,0.12,3-4 times/week,None,Former Smoker,Diabetes,184.9,94.0
+54,Male,18.6,Pescatarian,0,2,2,Sometimes,1.29,0.66,None,Occasional,Non-Smoker,Diabetes,175.9,57.4
+48,Male,24.3,Pescatarian,0,0,4,Never,1.51,1.46,3-4 times/week,None,Current Smoker,Hypertension,198.3,95.7
+69,Female,29.5,Vegetarian,4,4,1,Sometimes,0.6,0.9,5+ times/week,Moderate,Current Smoker,Heart Disease,197.1,114.6
+62,Female,18.9,Vegan,3,4,4,Never,2.67,1.77,1-2 times/week,High,Current Smoker,None,189.9,68.3
+19,Other,29.3,Vegan,2,3,1,Often,2.41,0.61,5+ times/week,None,Former Smoker,Hypertension,194.1,110.3
+36,Other,29.4,Vegan,2,4,3,Rarely,3.76,1.23,1-2 times/week,High,Former Smoker,None,199.5,117.1
+43,Male,27.2,Vegetarian,3,3,4,Rarely,3.76,1.15,None,High,Non-Smoker,Hypertension,163.1,72.4
+28,Female,41.8,Pescatarian,0,4,2,Often,1.44,0.29,None,High,Current Smoker,Heart Disease,157.1,103.1
+37,Other,36.4,Pescatarian,2,1,5,Rarely,1.41,0.23,None,Moderate,Former Smoker,Diabetes,169.4,104.5
+47,Other,36.1,Vegetarian,3,0,3,Never,2.3,1.44,None,High,Current Smoker,Heart Disease,159.2,91.5
+66,Other,24.1,Omnivore,4,3,3,Rarely,3.32,0.98,5+ times/week,Occasional,Non-Smoker,None,156.6,59.2
+68,Female,26.9,Omnivore,3,0,4,Sometimes,3.9,0.88,5+ times/week,High,Non-Smoker,Heart Disease,174.2,81.5
+61,Female,28.1,Vegetarian,1,2,5,Rarely,3.44,1.87,None,None,Current Smoker,None,169.9,81.2
+26,Male,33.7,Pescatarian,4,2,5,Never,2.74,1.13,5+ times/week,Moderate,Current Smoker,Heart Disease,187.1,118.1
+32,Female,33.4,Vegetarian,2,3,3,Often,1.66,0.49,5+ times/week,High,Former Smoker,Diabetes,181.6,110.1
+26,Other,24.8,Vegan,1,1,1,Often,1.25,0.86,1-2 times/week,Moderate,Current Smoker,Heart Disease,199.1,98.5
+37,Other,30.3,Vegan,0,2,1,Always,2.9,0.93,3-4 times/week,Moderate,Former Smoker,Heart Disease,164.6,82.1
+46,Other,22.8,Vegetarian,2,1,5,Rarely,1.18,0.69,3-4 times/week,Moderate,Former Smoker,Heart Disease,185.4,78.2
+18,Other,38.1,Omnivore,4,2,2,Always,3.51,1.47,None,Moderate,Former Smoker,Heart Disease,177.5,119.9
+34,Female,37.9,Vegan,4,1,4,Never,1.23,1.3,1-2 times/week,Moderate,Non-Smoker,Heart Disease,152.8,88.5
+31,Other,30.9,Vegan,0,4,1,Sometimes,2.71,1.85,1-2 times/week,None,Non-Smoker,None,192.2,114.0
+52,Female,29.5,Vegan,4,2,2,Never,1.55,0.83,1-2 times/week,None,Former Smoker,Heart Disease,160.4,75.8
+30,Female,17.2,Vegetarian,1,1,5,Sometimes,3.7,1.05,5+ times/week,Occasional,Current Smoker,Heart Disease,197.5,67.0
+43,Male,14.9,Pescatarian,0,2,5,Sometimes,0.87,0.8,None,None,Current Smoker,None,185.0,51.0
+64,Male,44.7,Vegan,1,4,2,Never,3.17,1.98,5+ times/week,Moderate,Former Smoker,Diabetes,158.4,112.2
+38,Other,27.5,Vegan,3,0,2,Often,0.91,1.05,None,Moderate,Former Smoker,Heart Disease,176.5,85.6
+26,Other,22.2,Vegetarian,1,1,5,Never,2.53,1.96,1-2 times/week,None,Non-Smoker,Hypertension,177.5,69.9
+30,Male,33.0,Vegan,0,0,2,Often,1.71,0.51,3-4 times/week,Occasional,Former Smoker,Heart Disease,153.7,78.0
+61,Other,35.8,Vegetarian,3,2,2,Often,1.99,1.44,1-2 times/week,Occasional,Non-Smoker,Diabetes,175.8,110.5
+66,Female,22.5,Pescatarian,2,0,1,Rarely,3.44,1.7,1-2 times/week,Occasional,Non-Smoker,None,195.5,86.1
+26,Female,22.6,Omnivore,0,3,1,Never,1.39,1.63,3-4 times/week,None,Current Smoker,Hypertension,177.8,71.5
+57,Female,28.4,Pescatarian,4,3,2,Always,1.13,0.93,None,None,Current Smoker,None,195.9,109.1
+22,Female,46.1,Omnivore,1,4,5,Sometimes,1.98,0.77,3-4 times/week,High,Current Smoker,Diabetes,152.0,106.6
+32,Female,21.4,Pescatarian,4,2,3,Often,2.91,1.8,1-2 times/week,None,Current Smoker,Hypertension,180.9,70.0
+45,Other,29.0,Vegetarian,2,3,5,Always,3.78,0.4,None,None,Non-Smoker,Heart Disease,186.1,100.4
+35,Female,38.3,Pescatarian,2,0,5,Often,3.26,1.6,3-4 times/week,Moderate,Non-Smoker,None,152.8,89.4
+18,Female,32.5,Vegetarian,1,1,1,Often,3.07,0.33,None,High,Current Smoker,Heart Disease,189.5,116.8
+25,Male,36.4,Omnivore,4,0,2,Sometimes,1.13,1.58,1-2 times/week,None,Non-Smoker,None,154.7,87.0
+18,Other,38.7,Vegan,1,4,3,Often,2.76,0.77,1-2 times/week,Occasional,Former Smoker,None,157.7,96.3
+37,Other,28.1,Omnivore,4,1,3,Sometimes,1.57,0.55,5+ times/week,High,Non-Smoker,Heart Disease,194.2,106.1
+33,Female,30.3,Vegetarian,0,3,2,Often,1.11,0.06,1-2 times/week,High,Current Smoker,Diabetes,173.7,91.3
+21,Male,17.6,Pescatarian,0,4,3,Often,0.98,0.62,None,Moderate,Former Smoker,Heart Disease,183.5,59.4
+21,Other,15.5,Vegan,1,3,5,Never,2.53,0.46,3-4 times/week,High,Non-Smoker,Heart Disease,180.8,50.7
+23,Male,34.1,Vegan,2,4,3,Rarely,3.6,1.81,3-4 times/week,None,Non-Smoker,Diabetes,184.9,116.6
+22,Female,33.9,Vegetarian,2,0,1,Never,2.94,1.71,5+ times/week,High,Non-Smoker,Hypertension,157.7,84.3
+25,Other,44.9,Vegan,1,1,1,Rarely,1.04,1.34,5+ times/week,None,Former Smoker,Heart Disease,158.8,113.3
+29,Male,18.7,Vegan,3,4,4,Never,0.86,1.83,1-2 times/week,Moderate,Non-Smoker,Heart Disease,172.1,55.4
+26,Male,19.5,Pescatarian,2,3,5,Often,2.38,1.89,5+ times/week,None,Current Smoker,Diabetes,181.4,64.2
+46,Other,25.4,Omnivore,3,0,1,Rarely,1.78,0.99,1-2 times/week,Occasional,Non-Smoker,None,164.1,68.3
+40,Female,32.6,Pescatarian,1,4,5,Never,3.95,1.71,5+ times/week,Moderate,Current Smoker,Hypertension,191.0,118.8
+26,Male,23.8,Omnivore,4,2,4,Often,1.57,0.26,None,Occasional,Non-Smoker,Hypertension,199.9,95.1
+69,Male,19.5,Vegetarian,1,2,2,Often,0.69,0.86,None,Moderate,Current Smoker,None,186.4,67.8
+23,Female,20.4,Pescatarian,3,4,3,Often,2.02,1.22,None,High,Former Smoker,Diabetes,173.9,61.7
+55,Female,16.1,Vegan,0,3,1,Always,0.74,1.65,3-4 times/week,Moderate,Former Smoker,Hypertension,195.1,61.3
+43,Other,25.8,Pescatarian,2,4,1,Sometimes,3.31,1.63,1-2 times/week,Moderate,Former Smoker,Hypertension,153.8,61.1
+53,Other,27.1,Vegetarian,2,0,3,Rarely,2.4,1.47,3-4 times/week,High,Current Smoker,Diabetes,194.1,102.0
+61,Female,32.2,Pescatarian,2,2,5,Always,3.23,0.49,None,Occasional,Non-Smoker,Heart Disease,190.6,116.8
+42,Other,22.8,Omnivore,3,1,3,Sometimes,2.94,1.72,3-4 times/week,Moderate,Current Smoker,Diabetes,185.4,78.4
+38,Male,21.5,Pescatarian,3,1,3,Sometimes,3.08,1.59,3-4 times/week,Moderate,Non-Smoker,Heart Disease,198.2,84.6
+61,Female,22.1,Omnivore,1,1,3,Always,1.45,0.35,None,High,Former Smoker,Heart Disease,196.7,85.7
+25,Male,27.8,Vegan,3,3,4,Never,2.85,1.99,3-4 times/week,Moderate,Former Smoker,Hypertension,194.3,104.8
+56,Male,26.7,Vegetarian,1,3,2,Often,2.49,1.82,5+ times/week,High,Current Smoker,Heart Disease,178.9,85.6
+23,Female,15.3,Vegan,4,3,4,Sometimes,0.99,1.03,1-2 times/week,Occasional,Current Smoker,Hypertension,198.3,60.3
+65,Male,21.4,Omnivore,2,3,5,Sometimes,2.13,1.93,3-4 times/week,None,Non-Smoker,Diabetes,196.7,82.7
+46,Male,32.0,Pescatarian,3,4,2,Never,3.05,0.2,5+ times/week,Moderate,Former Smoker,Diabetes,179.3,103.0
+22,Female,44.2,Vegan,0,2,3,Rarely,1.64,0.96,None,Moderate,Former Smoker,Heart Disease,161.9,115.8
+45,Female,21.6,Vegetarian,4,1,3,Often,2.47,0.79,3-4 times/week,None,Former Smoker,Heart Disease,185.5,74.3
+54,Male,29.5,Vegan,2,4,5,Rarely,3.61,0.73,5+ times/week,Occasional,Current Smoker,None,192.4,109.2
+30,Other,19.5,Omnivore,2,2,5,Rarely,2.88,0.08,1-2 times/week,None,Former Smoker,Hypertension,181.0,63.9
+47,Other,19.8,Pescatarian,0,3,2,Rarely,3.65,0.6,None,Moderate,Current Smoker,Hypertension,174.2,60.0
+58,Female,31.3,Pescatarian,1,3,4,Never,3.14,1.88,None,Moderate,Current Smoker,Diabetes,188.8,111.5
+56,Other,22.6,Vegan,3,2,2,Often,2.7,0.9,3-4 times/week,Occasional,Current Smoker,Heart Disease,183.9,76.6
+45,Female,34.1,Vegetarian,3,0,1,Often,2.29,1.59,5+ times/week,Moderate,Former Smoker,None,154.6,81.5
+42,Female,26.1,Vegan,0,3,5,Rarely,2.63,0.91,1-2 times/week,Occasional,Current Smoker,None,152.0,60.3
+33,Female,23.9,Omnivore,2,4,2,Always,2.29,1.33,None,Occasional,Non-Smoker,Diabetes,154.1,56.7
+40,Female,14.1,Vegan,4,0,4,Often,2.16,1.57,1-2 times/week,Occasional,Former Smoker,Hypertension,198.0,55.3
+31,Other,23.1,Omnivore,4,0,3,Sometimes,3.5,0.26,3-4 times/week,Occasional,Non-Smoker,Diabetes,181.3,75.9
+24,Female,27.3,Vegetarian,4,3,2,Always,1.89,1.19,3-4 times/week,High,Current Smoker,Diabetes,190.0,98.5
+32,Male,19.6,Omnivore,4,1,4,Never,1.55,1.27,5+ times/week,Occasional,Current Smoker,Hypertension,191.3,71.8
+61,Female,15.4,Vegan,2,2,5,Sometimes,2.42,0.63,3-4 times/week,Occasional,Non-Smoker,Diabetes,194.2,58.1
+33,Male,33.6,Vegetarian,4,1,5,Never,1.26,0.95,5+ times/week,Occasional,Non-Smoker,Diabetes,154.3,80.0
+39,Male,34.1,Vegan,2,1,3,Rarely,2.37,1.23,5+ times/week,Moderate,Current Smoker,None,178.6,108.9
+65,Other,18.8,Omnivore,0,0,4,Sometimes,2.82,1.51,1-2 times/week,None,Current Smoker,Diabetes,175.8,58.0
+37,Male,22.4,Vegan,1,1,1,Rarely,0.68,1.79,5+ times/week,Moderate,Former Smoker,Diabetes,199.4,89.0
+62,Male,22.6,Omnivore,0,4,4,Rarely,0.92,1.52,None,Occasional,Non-Smoker,Diabetes,159.1,57.1
+29,Male,38.9,Pescatarian,1,4,5,Never,1.4,1.82,3-4 times/week,High,Former Smoker,Hypertension,159.3,98.8
+69,Male,19.2,Vegetarian,3,1,1,Often,0.94,0.85,1-2 times/week,None,Non-Smoker,Heart Disease,191.1,70.1
+18,Other,23.7,Pescatarian,0,4,1,Sometimes,1.64,1.66,3-4 times/week,High,Non-Smoker,None,192.5,87.8
+32,Male,16.2,Omnivore,1,1,2,Never,2.06,0.36,3-4 times/week,Occasional,Non-Smoker,Heart Disease,177.0,50.7
+53,Male,49.5,Pescatarian,0,1,3,Sometimes,1.13,0.12,5+ times/week,Occasional,Current Smoker,None,154.9,118.7
+33,Male,14.5,Vegan,4,2,1,Often,0.64,1.9,1-2 times/week,Occasional,Non-Smoker,Hypertension,189.3,52.0
+35,Female,19.7,Vegan,0,0,2,Sometimes,2.47,0.3,3-4 times/week,None,Current Smoker,Heart Disease,199.5,78.3
+27,Female,25.8,Pescatarian,3,1,3,Always,1.85,1.09,5+ times/week,Occasional,Non-Smoker,Hypertension,158.8,65.0
+26,Male,31.4,Vegetarian,3,4,3,Never,3.28,0.86,3-4 times/week,Occasional,Former Smoker,Heart Disease,192.7,116.6
+37,Male,39.1,Pescatarian,2,0,2,Always,2.79,0.45,None,Moderate,Non-Smoker,Hypertension,164.7,106.0
+69,Other,30.7,Pescatarian,4,0,4,Rarely,3.51,0.56,5+ times/week,None,Former Smoker,Heart Disease,156.3,75.1
+41,Other,31.4,Omnivore,0,1,2,Never,2.71,1.64,1-2 times/week,Moderate,Current Smoker,Heart Disease,190.0,113.5
+33,Male,25.1,Vegan,1,3,5,Always,3.49,0.02,3-4 times/week,Moderate,Former Smoker,Hypertension,193.3,93.7
+20,Other,28.9,Pescatarian,3,0,3,Never,2.74,1.98,5+ times/week,Moderate,Former Smoker,Hypertension,194.1,108.9
+53,Male,28.3,Vegetarian,0,3,3,Sometimes,3.63,0.2,1-2 times/week,High,Former Smoker,None,184.2,96.1
+23,Other,30.8,Vegan,3,3,5,Sometimes,2.95,1.31,None,Moderate,Non-Smoker,None,191.2,112.7
+64,Male,20.0,Omnivore,0,4,2,Often,2.88,0.44,5+ times/week,High,Current Smoker,Heart Disease,176.4,62.2
+50,Male,35.8,Pescatarian,0,1,5,Rarely,2.65,0.58,3-4 times/week,Moderate,Non-Smoker,Diabetes,155.7,86.7
+54,Male,39.8,Pescatarian,4,3,5,Rarely,3.29,1.52,1-2 times/week,Occasional,Current Smoker,Diabetes,162.8,105.6
+57,Other,24.6,Vegetarian,2,4,4,Rarely,3.59,1.09,1-2 times/week,Moderate,Current Smoker,None,174.3,74.7
+66,Other,23.7,Vegetarian,1,2,4,Never,0.8,0.42,5+ times/week,High,Former Smoker,Hypertension,176.9,74.2
+33,Other,15.9,Vegan,2,3,3,Rarely,2.96,1.34,5+ times/week,Occasional,Non-Smoker,None,198.8,63.0
+27,Male,14.5,Vegan,4,2,3,Never,0.9,1.01,None,Occasional,Current Smoker,None,193.7,54.4
+60,Male,21.1,Pescatarian,3,4,1,Often,1.61,0.89,3-4 times/week,None,Former Smoker,Heart Disease,180.5,68.7
+65,Male,28.1,Pescatarian,4,1,4,Never,2.08,0.66,None,High,Former Smoker,None,155.1,67.6
+56,Other,34.2,Vegan,3,4,2,Rarely,2.28,0.14,1-2 times/week,None,Current Smoker,Diabetes,165.7,93.8
+68,Male,49.3,Vegan,2,0,4,Sometimes,1.18,0.45,5+ times/week,Moderate,Former Smoker,Diabetes,151.6,113.3
+46,Female,21.0,Pescatarian,3,2,2,Rarely,2.19,0.35,None,None,Former Smoker,Diabetes,156.2,51.2
+25,Other,31.8,Pescatarian,2,4,4,Sometimes,2.85,0.57,5+ times/week,High,Former Smoker,Hypertension,193.5,119.0
+20,Other,28.5,Vegan,0,3,3,Sometimes,0.72,1.08,None,Occasional,Former Smoker,Diabetes,178.0,90.2
+36,Other,37.5,Vegan,0,3,1,Rarely,2.25,1.38,3-4 times/week,None,Current Smoker,Diabetes,154.0,88.9
+60,Male,33.0,Omnivore,3,2,2,Sometimes,0.51,0.76,1-2 times/week,High,Former Smoker,Diabetes,177.7,104.2
+36,Female,21.7,Pescatarian,2,2,5,Sometimes,3.65,0.01,None,Moderate,Non-Smoker,Hypertension,162.8,57.4
+61,Female,37.0,Vegan,1,2,2,Never,1.81,0.65,1-2 times/week,None,Non-Smoker,Hypertension,166.1,102.2
+68,Other,17.6,Vegan,1,4,2,Always,3.75,0.81,1-2 times/week,High,Non-Smoker,Diabetes,196.8,68.2
+48,Other,20.6,Omnivore,2,2,4,Often,0.85,1.1,3-4 times/week,Occasional,Non-Smoker,Diabetes,198.7,81.5
+63,Female,46.2,Vegetarian,1,3,1,Rarely,2.71,0.14,None,High,Former Smoker,Hypertension,150.4,104.5
+69,Other,27.7,Vegan,3,4,4,Never,2.35,1.95,3-4 times/week,High,Former Smoker,Heart Disease,159.5,70.4
+65,Male,27.3,Pescatarian,1,3,5,Rarely,1.75,1.51,1-2 times/week,None,Non-Smoker,Hypertension,195.4,104.2
+65,Male,34.3,Vegetarian,3,3,4,Sometimes,3.92,0.19,3-4 times/week,Occasional,Former Smoker,Diabetes,159.7,87.5
+24,Female,22.9,Vegetarian,3,2,2,Never,3.62,1.28,None,High,Current Smoker,Diabetes,176.2,71.2
+39,Female,28.2,Vegan,0,4,2,Sometimes,1.39,0.73,1-2 times/week,High,Former Smoker,Hypertension,168.4,79.9
+24,Other,14.4,Pescatarian,3,2,3,Rarely,1.29,0.65,5+ times/week,Occasional,Current Smoker,Hypertension,186.6,50.1
+62,Male,26.4,Vegan,2,4,4,Always,0.71,0.71,1-2 times/week,Occasional,Former Smoker,Hypertension,186.4,91.7
+62,Female,28.5,Vegetarian,3,0,3,Always,2.51,1.19,3-4 times/week,None,Current Smoker,None,170.3,82.7
+44,Male,32.8,Pescatarian,0,4,2,Always,1.12,0.26,None,None,Non-Smoker,Heart Disease,163.3,87.5
+47,Female,47.0,Vegan,3,1,2,Often,1.8,1.77,None,High,Current Smoker,Hypertension,153.5,110.7
+27,Male,25.9,Vegetarian,0,0,1,Never,2.85,1.45,None,High,Current Smoker,Hypertension,150.3,58.6
+37,Male,31.8,Omnivore,2,1,5,Sometimes,2.44,1.86,1-2 times/week,Moderate,Former Smoker,Heart Disease,164.1,85.5
+60,Male,30.1,Vegetarian,2,0,1,Often,3.49,0.47,5+ times/week,None,Non-Smoker,Heart Disease,183.0,100.9
+31,Female,33.6,Vegetarian,0,2,4,Often,2.05,1.82,1-2 times/week,High,Current Smoker,Hypertension,178.1,106.6
+44,Female,18.4,Omnivore,3,4,1,Sometimes,1.34,0.37,3-4 times/week,Moderate,Current Smoker,Heart Disease,173.1,55.0
+46,Other,27.5,Vegetarian,1,2,3,Sometimes,3.35,1.11,5+ times/week,None,Current Smoker,Diabetes,196.5,106.2
+45,Male,31.1,Vegetarian,0,4,4,Rarely,2.68,1.72,1-2 times/week,Moderate,Current Smoker,None,156.5,76.2
+44,Male,31.7,Vegetarian,0,2,1,Rarely,1.66,0.12,3-4 times/week,Occasional,Current Smoker,Diabetes,177.8,100.2
+68,Male,17.0,Pescatarian,1,2,3,Often,1.74,0.81,None,None,Former Smoker,None,185.3,58.5
+19,Male,39.3,Pescatarian,0,0,4,Sometimes,0.59,1.93,3-4 times/week,Occasional,Non-Smoker,None,162.9,104.4
+67,Other,17.6,Vegetarian,3,4,1,Sometimes,1.32,1.4,5+ times/week,Occasional,Former Smoker,None,174.5,53.5
+69,Male,43.2,Vegan,3,3,3,Always,3.48,0.35,3-4 times/week,Moderate,Non-Smoker,None,152.0,99.9
+56,Other,42.7,Vegan,1,2,5,Never,1.74,0.33,1-2 times/week,Moderate,Former Smoker,Diabetes,160.0,109.2
+28,Female,33.1,Omnivore,3,1,5,Never,3.11,1.77,None,None,Non-Smoker,Heart Disease,179.0,105.9
+62,Male,35.3,Pescatarian,0,3,1,Always,0.64,1.71,None,None,Non-Smoker,Heart Disease,151.2,80.7
+18,Female,20.1,Omnivore,3,3,3,Never,1.0,1.44,3-4 times/week,None,Former Smoker,Diabetes,171.5,59.1
+60,Other,25.4,Omnivore,3,4,1,Rarely,1.97,1.76,None,Moderate,Non-Smoker,Diabetes,155.4,61.3
+44,Female,25.5,Vegan,4,3,5,Rarely,1.06,0.97,None,None,Former Smoker,None,190.7,92.8
+68,Male,20.3,Omnivore,2,1,1,Often,2.74,1.13,None,High,Non-Smoker,Diabetes,187.8,71.7
+21,Male,19.5,Vegan,2,2,2,Always,1.63,0.27,5+ times/week,None,Former Smoker,Diabetes,162.7,51.7
+58,Female,20.6,Pescatarian,1,3,4,Always,3.84,0.86,5+ times/week,Occasional,Non-Smoker,Hypertension,174.0,62.4
+43,Male,29.7,Vegan,1,2,3,Often,3.39,1.82,5+ times/week,None,Former Smoker,Hypertension,191.3,108.6
+22,Other,30.5,Pescatarian,4,4,4,Often,3.76,1.38,1-2 times/week,Moderate,Current Smoker,None,167.0,85.2
+46,Female,25.0,Pescatarian,0,4,2,Rarely,1.68,0.89,5+ times/week,None,Current Smoker,Heart Disease,184.1,84.7
+51,Female,21.5,Omnivore,1,3,3,Often,1.01,1.77,5+ times/week,Moderate,Former Smoker,Diabetes,174.4,65.3
+20,Male,23.5,Omnivore,0,4,1,Always,2.34,1.48,5+ times/week,Moderate,Current Smoker,None,180.2,76.2
+35,Other,30.1,Pescatarian,2,0,3,Rarely,2.12,1.19,1-2 times/week,Moderate,Former Smoker,Heart Disease,187.3,105.7
+68,Female,27.0,Vegan,0,0,2,Rarely,1.55,1.62,3-4 times/week,Moderate,Former Smoker,Hypertension,188.7,96.2
+65,Other,27.4,Pescatarian,2,2,3,Often,3.53,1.57,None,None,Former Smoker,None,169.3,78.6
+48,Female,30.3,Pescatarian,4,0,5,Always,2.07,1.82,1-2 times/week,Occasional,Non-Smoker,None,167.2,84.8
+69,Other,32.0,Vegetarian,4,0,2,Rarely,3.25,0.89,3-4 times/week,Occasional,Current Smoker,Heart Disease,153.8,75.7
+55,Male,28.7,Vegan,0,2,4,Often,3.05,0.51,1-2 times/week,Moderate,Former Smoker,Heart Disease,172.7,85.6
+46,Male,17.9,Vegetarian,0,0,2,Sometimes,3.84,1.93,3-4 times/week,High,Former Smoker,None,173.9,54.2
+44,Female,34.1,Vegan,3,0,2,Rarely,3.31,0.82,None,None,Current Smoker,None,174.5,103.8
+45,Female,21.3,Omnivore,1,3,5,Always,1.98,1.58,5+ times/week,Moderate,Former Smoker,Hypertension,160.9,55.2
+29,Other,35.7,Omnivore,2,1,3,Often,1.9,1.3,None,High,Former Smoker,Hypertension,158.8,90.0
+32,Male,31.9,Vegetarian,4,1,2,Always,3.6,1.19,1-2 times/week,None,Former Smoker,Diabetes,164.3,86.1
+33,Other,32.4,Vegan,1,0,5,Sometimes,2.21,1.1,5+ times/week,Moderate,Former Smoker,Diabetes,157.7,80.6
+25,Other,36.1,Vegetarian,1,4,2,Rarely,0.53,0.4,1-2 times/week,None,Non-Smoker,None,157.7,89.7
+22,Other,20.3,Vegetarian,3,1,2,Always,3.31,0.08,3-4 times/week,Moderate,Current Smoker,None,193.6,76.1
+50,Female,32.4,Pescatarian,0,3,3,Sometimes,1.4,0.63,None,Occasional,Non-Smoker,Hypertension,168.6,92.0
+32,Other,24.7,Omnivore,0,3,1,Sometimes,1.6,1.34,5+ times/week,High,Former Smoker,Heart Disease,180.1,80.2
+69,Male,38.8,Omnivore,4,1,2,Never,1.35,1.58,3-4 times/week,None,Former Smoker,Heart Disease,163.1,103.3
+53,Other,18.0,Pescatarian,3,0,4,Often,2.78,1.86,3-4 times/week,High,Former Smoker,Diabetes,193.0,67.1
+22,Female,23.3,Omnivore,3,1,4,Sometimes,3.68,0.63,None,Occasional,Non-Smoker,Heart Disease,175.0,71.5
+43,Male,38.3,Vegetarian,1,4,2,Rarely,2.87,0.9,1-2 times/week,Moderate,Current Smoker,Hypertension,150.8,87.1
+59,Female,35.8,Omnivore,1,0,2,Rarely,0.79,0.52,1-2 times/week,Moderate,Current Smoker,Diabetes,163.6,95.7
+42,Female,17.7,Omnivore,2,0,4,Often,1.37,1.34,5+ times/week,Moderate,Current Smoker,Hypertension,192.1,65.3
+59,Male,16.9,Pescatarian,0,1,4,Always,3.94,1.12,3-4 times/week,None,Current Smoker,Diabetes,193.6,63.5
+36,Other,29.1,Vegan,4,3,4,Sometimes,2.85,0.16,1-2 times/week,Occasional,Non-Smoker,Heart Disease,190.6,105.7
+30,Male,39.3,Omnivore,4,3,1,Rarely,3.34,1.48,1-2 times/week,None,Former Smoker,None,154.1,93.4
+62,Other,18.2,Vegan,3,4,3,Often,2.71,0.33,5+ times/week,Moderate,Current Smoker,Hypertension,170.7,53.1
+47,Female,30.2,Omnivore,4,4,5,Rarely,1.09,1.8,3-4 times/week,Occasional,Current Smoker,Hypertension,185.4,103.7
+18,Other,27.9,Vegetarian,0,0,5,Never,3.1,1.72,5+ times/week,Moderate,Current Smoker,None,165.7,76.7
+45,Male,22.7,Omnivore,1,2,1,Rarely,2.69,1.57,None,High,Current Smoker,None,181.8,75.0
+34,Other,23.9,Vegetarian,0,3,3,Sometimes,3.01,1.53,3-4 times/week,None,Non-Smoker,Hypertension,194.5,90.3
+63,Other,30.7,Vegetarian,1,4,2,Never,2.86,0.1,5+ times/week,High,Non-Smoker,Diabetes,182.3,101.9
+53,Female,30.6,Pescatarian,4,0,3,Sometimes,3.86,1.14,5+ times/week,Moderate,Current Smoker,Hypertension,160.5,78.9
+38,Female,23.0,Vegan,1,1,2,Sometimes,1.3,1.2,1-2 times/week,Moderate,Non-Smoker,Hypertension,172.5,68.3
+45,Female,22.1,Vegetarian,1,2,4,Sometimes,3.79,0.96,None,Moderate,Non-Smoker,Hypertension,184.4,75.2
+26,Female,41.7,Vegetarian,2,1,3,Never,1.93,1.93,None,Occasional,Current Smoker,Heart Disease,160.8,107.7
+27,Male,27.4,Omnivore,2,3,1,Always,3.32,0.6,3-4 times/week,High,Former Smoker,Diabetes,176.7,85.6
+30,Male,23.0,Vegetarian,4,0,1,Often,1.92,1.65,5+ times/week,None,Current Smoker,None,176.7,71.7
+26,Female,38.3,Pescatarian,3,4,3,Always,0.51,0.26,3-4 times/week,Moderate,Current Smoker,Hypertension,158.3,95.9
+49,Male,27.8,Omnivore,0,1,5,Always,0.76,0.11,3-4 times/week,Moderate,Current Smoker,Hypertension,180.4,90.4
+57,Other,21.8,Vegetarian,4,1,1,Rarely,2.51,0.47,None,None,Non-Smoker,Heart Disease,158.7,54.9
+32,Male,19.3,Omnivore,3,1,1,Always,3.88,0.52,None,High,Current Smoker,None,187.5,67.9
+22,Female,18.3,Pescatarian,4,3,5,Rarely,3.11,1.44,5+ times/week,Moderate,Non-Smoker,Heart Disease,190.8,66.5
+42,Male,18.2,Vegan,1,4,3,Never,1.4,1.81,1-2 times/week,Occasional,Current Smoker,Heart Disease,194.3,68.8
+47,Male,20.7,Pescatarian,3,1,3,Sometimes,1.21,0.8,3-4 times/week,Moderate,Non-Smoker,None,189.1,74.1
+26,Male,15.5,Vegan,2,1,4,Rarely,2.51,0.42,3-4 times/week,None,Current Smoker,None,194.5,58.6
+42,Male,31.4,Vegan,1,1,3,Never,1.72,0.13,3-4 times/week,None,Non-Smoker,Diabetes,185.5,108.0
+59,Male,20.8,Omnivore,4,4,2,Rarely,0.86,1.8,3-4 times/week,High,Former Smoker,Diabetes,158.9,52.4
+67,Male,26.6,Pescatarian,4,2,4,Always,1.25,0.47,5+ times/week,Occasional,Former Smoker,Diabetes,179.2,85.5
+31,Female,21.0,Vegetarian,2,2,1,Rarely,0.57,0.3,1-2 times/week,Moderate,Current Smoker,None,158.3,52.7
+52,Male,23.3,Vegan,3,4,1,Sometimes,1.83,0.46,1-2 times/week,High,Former Smoker,None,164.1,62.7
+33,Other,21.1,Vegetarian,1,2,3,Often,3.29,0.59,5+ times/week,High,Former Smoker,None,174.9,64.6
+33,Male,31.7,Vegetarian,0,3,2,Never,1.8,1.89,3-4 times/week,None,Current Smoker,Hypertension,171.6,93.3
+39,Male,29.3,Pescatarian,4,2,3,Sometimes,2.01,0.38,None,None,Non-Smoker,None,164.8,79.5
+49,Male,18.2,Vegan,1,2,4,Sometimes,1.49,0.5,3-4 times/week,High,Current Smoker,Hypertension,183.8,61.6
+37,Female,32.3,Pescatarian,2,3,5,Always,1.91,0.56,5+ times/week,High,Non-Smoker,Heart Disease,173.2,96.8
+60,Other,23.5,Omnivore,3,1,5,Rarely,1.45,1.61,None,Occasional,Former Smoker,Hypertension,172.8,70.3
+36,Female,38.6,Vegetarian,2,3,1,Sometimes,1.62,0.37,1-2 times/week,Moderate,Non-Smoker,None,174.8,117.8
+42,Other,28.1,Pescatarian,3,3,5,Often,3.07,0.01,3-4 times/week,None,Former Smoker,Hypertension,175.3,86.2
+36,Male,20.4,Pescatarian,3,3,2,Rarely,1.03,1.47,3-4 times/week,Moderate,Current Smoker,Diabetes,174.3,62.1
+65,Female,35.0,Pescatarian,3,0,5,Always,1.39,1.21,None,Occasional,Former Smoker,Hypertension,157.7,87.0
+33,Other,26.7,Vegetarian,3,2,3,Never,1.46,0.13,1-2 times/week,Occasional,Non-Smoker,Hypertension,188.6,94.8
+51,Female,18.6,Vegetarian,3,0,1,Never,2.91,1.07,5+ times/week,Occasional,Current Smoker,Heart Disease,196.1,71.6
+60,Female,15.6,Vegetarian,1,1,3,Never,1.9,0.66,3-4 times/week,Occasional,Current Smoker,Hypertension,194.1,58.8
+19,Female,29.3,Vegetarian,4,0,5,Rarely,0.72,0.02,None,Occasional,Current Smoker,None,192.0,108.1
+62,Female,26.5,Omnivore,4,2,5,Rarely,1.36,0.42,3-4 times/week,High,Non-Smoker,Heart Disease,170.2,76.8
+33,Male,33.7,Vegan,0,0,4,Always,2.56,1.25,5+ times/week,High,Former Smoker,Hypertension,156.4,82.4
+28,Other,31.3,Omnivore,0,2,5,Always,2.5,0.95,5+ times/week,High,Former Smoker,Diabetes,183.3,105.3
+47,Male,35.1,Vegetarian,3,1,2,Rarely,3.47,1.84,None,High,Current Smoker,Diabetes,176.7,109.7
+49,Female,35.6,Pescatarian,2,4,3,Never,1.05,0.94,3-4 times/week,Occasional,Former Smoker,None,179.3,114.4
+59,Female,21.9,Pescatarian,4,2,3,Never,3.07,0.28,None,Occasional,Non-Smoker,None,176.7,68.4
+64,Female,32.8,Vegetarian,0,1,1,Always,3.05,1.99,1-2 times/week,Moderate,Former Smoker,Hypertension,182.6,109.3
+36,Female,25.1,Vegan,0,3,4,Sometimes,3.79,1.27,None,Moderate,Current Smoker,Hypertension,179.0,80.3
+36,Male,33.5,Omnivore,3,4,2,Often,2.62,0.17,None,None,Current Smoker,Heart Disease,187.9,118.2
+51,Female,22.4,Omnivore,1,2,2,Never,0.58,0.8,3-4 times/week,None,Current Smoker,Hypertension,174.4,68.0
+55,Female,31.7,Vegan,0,0,2,Sometimes,1.49,1.01,5+ times/week,Moderate,Former Smoker,Diabetes,176.6,99.0
+48,Female,34.9,Omnivore,0,0,3,Never,1.41,1.98,1-2 times/week,None,Non-Smoker,None,184.2,118.4
+67,Other,36.4,Pescatarian,2,1,4,Rarely,3.76,1.43,None,Moderate,Current Smoker,Hypertension,155.5,87.9
+55,Male,19.8,Omnivore,4,2,3,Never,3.82,0.99,1-2 times/week,Moderate,Non-Smoker,None,182.5,65.9
+52,Other,28.5,Pescatarian,0,0,5,Never,1.85,1.54,3-4 times/week,High,Former Smoker,Diabetes,174.6,87.0
+61,Other,21.2,Omnivore,0,0,4,Always,1.06,1.8,1-2 times/week,High,Non-Smoker,Diabetes,183.7,71.5
+58,Male,24.7,Vegan,3,0,5,Rarely,3.77,0.23,1-2 times/week,Occasional,Current Smoker,Heart Disease,176.7,77.1
+58,Male,23.0,Omnivore,3,2,3,Often,0.64,0.36,3-4 times/week,High,Current Smoker,Hypertension,166.2,63.5
+40,Female,14.9,Omnivore,4,4,2,Often,2.95,0.5,5+ times/week,Occasional,Former Smoker,None,186.2,51.6
+51,Other,29.6,Omnivore,0,2,4,Sometimes,1.31,1.87,3-4 times/week,High,Current Smoker,None,180.7,96.7
+49,Female,14.8,Vegan,4,2,5,Rarely,1.12,1.37,3-4 times/week,High,Current Smoker,None,190.9,53.8
+67,Male,28.6,Vegan,0,3,5,Sometimes,2.43,0.36,3-4 times/week,High,Former Smoker,Heart Disease,194.9,108.5
+55,Other,30.6,Omnivore,4,0,3,Sometimes,0.74,1.31,3-4 times/week,Moderate,Former Smoker,Hypertension,183.7,103.3
+23,Male,29.2,Vegetarian,0,2,1,Sometimes,2.32,1.51,None,None,Current Smoker,Heart Disease,171.7,86.0
+54,Other,16.9,Omnivore,1,1,5,Sometimes,2.04,1.37,3-4 times/week,High,Non-Smoker,None,175.7,52.1
+47,Male,25.7,Omnivore,3,4,4,Sometimes,1.03,1.89,1-2 times/week,High,Non-Smoker,None,166.7,71.4
+26,Other,29.7,Vegan,3,4,1,Never,3.51,1.07,5+ times/week,Occasional,Current Smoker,Diabetes,172.0,88.0
+24,Other,19.3,Vegan,3,1,5,Often,2.66,1.1,5+ times/week,High,Former Smoker,Heart Disease,167.3,54.1
+42,Male,29.3,Vegetarian,2,3,1,Sometimes,1.6,1.77,None,None,Current Smoker,Hypertension,194.8,111.2
+59,Other,18.7,Vegetarian,4,4,3,Often,2.42,0.92,1-2 times/week,None,Former Smoker,Diabetes,192.9,69.4
+41,Male,26.9,Pescatarian,2,0,4,Often,2.83,1.86,3-4 times/week,High,Current Smoker,Heart Disease,170.6,78.3
+31,Other,32.8,Vegetarian,1,3,2,Often,3.77,1.11,None,High,Current Smoker,Diabetes,167.9,92.5
+33,Other,39.7,Pescatarian,4,1,3,Never,1.83,0.05,3-4 times/week,None,Current Smoker,None,160.9,102.7
+56,Male,25.9,Omnivore,2,2,2,Rarely,2.72,1.31,1-2 times/week,High,Non-Smoker,Heart Disease,152.0,59.8
+28,Male,25.4,Vegetarian,3,1,2,Rarely,1.66,0.39,3-4 times/week,High,Non-Smoker,None,194.1,95.7
+31,Female,39.9,Vegan,2,1,1,Often,2.27,0.1,5+ times/week,Moderate,Current Smoker,Heart Disease,160.2,102.4
+41,Other,24.0,Vegan,1,3,4,Rarely,2.27,0.91,None,Moderate,Current Smoker,Diabetes,181.9,79.5
+58,Male,20.3,Vegan,0,3,4,Sometimes,3.08,1.3,1-2 times/week,None,Non-Smoker,Heart Disease,165.3,55.4
+67,Other,41.8,Vegan,3,1,5,Always,2.66,0.32,None,None,Non-Smoker,Heart Disease,166.6,116.1
+32,Other,23.7,Omnivore,3,1,5,Often,2.08,0.87,None,High,Non-Smoker,None,153.8,56.0
+66,Other,43.0,Vegetarian,3,2,5,Rarely,3.25,0.6,3-4 times/week,High,Non-Smoker,Hypertension,150.8,97.8
+18,Female,33.2,Omnivore,4,3,5,Never,3.88,1.18,1-2 times/week,High,Current Smoker,Heart Disease,162.0,87.2
+52,Female,41.1,Vegan,4,2,2,Often,1.3,1.85,1-2 times/week,High,Non-Smoker,Heart Disease,154.3,97.9
+48,Female,34.7,Vegan,2,4,4,Sometimes,0.65,0.24,1-2 times/week,Occasional,Non-Smoker,Hypertension,179.6,112.0
+30,Female,29.2,Omnivore,1,3,4,Often,2.37,0.07,5+ times/week,High,Non-Smoker,Heart Disease,198.8,115.6
+68,Other,23.3,Vegetarian,1,4,5,Sometimes,3.34,0.51,3-4 times/week,High,Current Smoker,Diabetes,153.5,55.0
+23,Male,25.2,Vegan,3,0,3,Often,1.0,0.1,3-4 times/week,Moderate,Non-Smoker,None,187.3,88.5
+28,Male,22.5,Vegetarian,0,3,5,Never,0.94,1.21,5+ times/week,Moderate,Non-Smoker,Hypertension,153.9,53.4
+34,Other,32.0,Pescatarian,1,1,4,Always,0.7,0.13,5+ times/week,Moderate,Non-Smoker,Heart Disease,153.0,74.8
+21,Male,42.4,Vegetarian,3,1,5,Often,2.84,0.09,1-2 times/week,Moderate,Current Smoker,Heart Disease,156.7,104.2
+43,Male,41.7,Omnivore,3,1,2,Sometimes,1.85,1.7,5+ times/week,None,Current Smoker,Diabetes,157.0,102.9
+26,Other,35.5,Omnivore,0,3,2,Rarely,3.38,1.59,None,High,Current Smoker,Hypertension,172.6,105.8
+56,Male,21.8,Pescatarian,0,2,5,Always,3.35,0.04,1-2 times/week,Occasional,Non-Smoker,Hypertension,198.7,86.2
+67,Male,40.2,Omnivore,1,2,5,Always,2.07,1.74,None,High,Non-Smoker,Heart Disease,159.7,102.6
+30,Male,44.6,Vegetarian,1,2,1,Always,0.6,0.75,3-4 times/week,Occasional,Former Smoker,None,162.3,117.5
+43,Male,35.8,Omnivore,0,1,5,Always,1.14,1.28,3-4 times/week,Occasional,Former Smoker,Hypertension,162.3,94.4
+52,Male,25.4,Vegetarian,2,1,1,Sometimes,1.49,1.12,5+ times/week,None,Non-Smoker,Diabetes,181.7,83.9
+32,Male,17.7,Omnivore,1,4,1,Never,2.55,0.53,3-4 times/week,None,Former Smoker,Hypertension,186.1,61.4
+41,Male,23.6,Vegetarian,3,0,2,Often,3.77,0.66,1-2 times/week,Moderate,Non-Smoker,Diabetes,162.9,62.6
+31,Female,16.6,Vegan,4,2,5,Often,3.19,1.24,None,Moderate,Non-Smoker,None,192.0,61.3
+26,Male,24.2,Vegan,0,1,2,Never,0.66,1.97,None,High,Non-Smoker,Diabetes,187.4,84.9
+69,Male,33.5,Vegan,1,2,3,Sometimes,2.89,1.21,3-4 times/week,Occasional,Non-Smoker,None,172.3,99.4
+61,Other,33.1,Pescatarian,3,3,4,Rarely,2.32,0.45,None,None,Current Smoker,Heart Disease,163.5,88.4
+32,Male,27.6,Vegetarian,4,3,5,Always,3.69,1.5,3-4 times/week,None,Former Smoker,None,183.6,92.9
+35,Female,30.0,Vegan,0,4,3,Never,2.8,1.47,1-2 times/week,Moderate,Former Smoker,Heart Disease,167.3,83.9
+34,Male,28.7,Pescatarian,3,1,4,Never,1.12,0.73,1-2 times/week,None,Former Smoker,Diabetes,176.1,88.9
+66,Female,25.8,Pescatarian,0,1,1,Never,0.83,0.65,5+ times/week,Moderate,Former Smoker,Heart Disease,198.7,102.0
+52,Male,27.6,Vegetarian,0,3,1,Never,3.08,0.15,5+ times/week,Moderate,Former Smoker,None,164.6,74.7
+62,Male,26.3,Vegan,0,4,4,Often,2.0,1.05,5+ times/week,None,Non-Smoker,None,157.7,65.3
+55,Other,42.1,Vegetarian,3,0,2,Often,2.8,0.64,None,Moderate,Former Smoker,None,168.6,119.6
+38,Female,18.3,Omnivore,2,2,3,Always,2.48,1.64,3-4 times/week,None,Former Smoker,Diabetes,167.0,51.1
+20,Female,18.7,Pescatarian,3,2,1,Never,0.51,1.18,5+ times/week,High,Former Smoker,Hypertension,166.0,51.6
+41,Male,26.9,Vegan,2,4,1,Never,1.56,1.69,1-2 times/week,None,Former Smoker,None,193.8,101.1
+59,Female,27.2,Omnivore,3,0,4,Never,3.67,0.82,5+ times/week,Occasional,Current Smoker,None,172.4,80.9
+66,Other,32.5,Vegetarian,1,3,5,Sometimes,0.6,0.16,None,Occasional,Former Smoker,Hypertension,165.0,88.4
+52,Female,22.7,Omnivore,4,1,5,Always,2.45,0.92,1-2 times/week,High,Non-Smoker,Diabetes,173.5,68.3
+36,Male,26.4,Omnivore,3,2,5,Never,2.9,1.24,None,High,Current Smoker,Hypertension,191.7,96.9
+61,Female,44.8,Vegan,1,1,3,Sometimes,3.23,0.67,1-2 times/week,Moderate,Non-Smoker,Heart Disease,150.9,102.0
+21,Male,23.9,Vegan,3,3,2,Often,1.49,0.57,5+ times/week,Occasional,Current Smoker,Diabetes,188.0,84.4
+34,Male,32.5,Vegan,3,0,2,Sometimes,0.85,0.88,3-4 times/week,Moderate,Current Smoker,None,186.2,112.7
+19,Male,20.2,Vegan,4,1,2,Rarely,0.57,1.1,3-4 times/week,Occasional,Non-Smoker,Heart Disease,190.0,73.1
+45,Male,30.0,Omnivore,2,4,5,Never,1.22,0.76,None,Moderate,Former Smoker,Diabetes,155.1,72.1
+21,Male,16.7,Vegetarian,1,1,2,Always,3.75,0.46,5+ times/week,High,Former Smoker,None,196.4,64.6
+22,Male,28.4,Omnivore,4,2,5,Often,1.25,0.14,1-2 times/week,Occasional,Current Smoker,Hypertension,169.3,81.5
+62,Female,16.0,Pescatarian,2,1,1,Often,3.28,1.84,1-2 times/week,None,Non-Smoker,Heart Disease,179.3,51.3
+65,Other,22.3,Vegetarian,1,2,5,Always,1.42,1.19,None,Occasional,Non-Smoker,None,162.7,59.0
+33,Other,22.5,Vegetarian,2,4,1,Never,1.06,1.69,1-2 times/week,Occasional,Non-Smoker,Diabetes,191.2,82.1
+28,Male,14.8,Vegan,1,3,3,Often,3.03,0.4,None,None,Current Smoker,Heart Disease,185.6,51.1
+39,Female,22.5,Vegetarian,0,2,3,Never,3.37,0.92,3-4 times/week,Occasional,Former Smoker,Diabetes,173.3,67.5
+31,Male,32.7,Vegetarian,4,2,1,Sometimes,2.41,0.5,5+ times/week,High,Former Smoker,Diabetes,157.1,80.8
+62,Female,36.8,Pescatarian,4,3,2,Always,2.23,1.5,1-2 times/week,High,Non-Smoker,None,171.5,108.1
+33,Female,25.3,Omnivore,1,3,1,Rarely,2.45,0.29,1-2 times/week,Occasional,Non-Smoker,Hypertension,174.6,77.1
+27,Male,17.6,Vegan,1,0,4,Never,1.96,1.17,1-2 times/week,None,Current Smoker,None,188.0,62.2
+28,Other,30.9,Vegetarian,4,4,2,Rarely,3.73,1.61,5+ times/week,Moderate,Current Smoker,Heart Disease,189.6,111.0
+60,Other,32.5,Vegetarian,4,2,4,Often,0.95,1.02,5+ times/week,Moderate,Current Smoker,Diabetes,158.5,81.7
+33,Other,22.5,Vegan,4,2,2,Rarely,2.94,1.27,None,High,Non-Smoker,Hypertension,185.3,77.2
+37,Other,16.0,Omnivore,1,0,4,Always,3.48,0.56,5+ times/week,None,Former Smoker,Diabetes,199.2,63.3
+59,Other,39.4,Omnivore,4,3,3,Sometimes,0.57,0.21,1-2 times/week,None,Former Smoker,Hypertension,169.0,112.5
+66,Female,17.7,Pescatarian,1,1,1,Rarely,0.57,0.63,1-2 times/week,None,Current Smoker,None,182.0,58.6
+24,Female,29.9,Pescatarian,2,3,5,Never,2.05,1.17,1-2 times/week,High,Former Smoker,None,157.5,74.1
+33,Male,44.3,Pescatarian,4,0,1,Always,2.9,1.73,3-4 times/week,Moderate,Non-Smoker,None,154.5,105.8
+41,Female,33.4,Vegetarian,3,4,4,Never,3.66,1.7,None,High,Non-Smoker,Hypertension,153.6,78.7
+26,Other,45.8,Pescatarian,1,3,4,Often,2.93,1.8,None,High,Former Smoker,None,154.5,109.4
+20,Female,25.7,Vegetarian,3,4,2,Often,3.53,0.32,3-4 times/week,Occasional,Current Smoker,Heart Disease,171.5,75.5
+36,Female,25.0,Vegan,2,2,5,Rarely,2.38,1.92,5+ times/week,Moderate,Current Smoker,Diabetes,197.6,97.7
+21,Male,39.9,Vegan,3,0,3,Always,3.67,0.37,5+ times/week,Moderate,Non-Smoker,None,156.9,98.3
+26,Female,27.7,Vegetarian,2,3,3,Often,0.84,0.74,1-2 times/week,Moderate,Former Smoker,Hypertension,190.1,100.0
+30,Other,29.2,Omnivore,1,1,1,Often,1.88,1.73,1-2 times/week,Occasional,Non-Smoker,Diabetes,198.9,115.5
+63,Male,30.6,Vegan,4,2,3,Never,1.93,1.57,5+ times/week,None,Former Smoker,None,188.5,108.9
+26,Female,42.2,Pescatarian,3,1,2,Always,0.85,1.96,5+ times/week,High,Non-Smoker,Hypertension,164.0,113.5
+31,Other,22.5,Vegetarian,4,0,5,Never,1.79,1.88,None,None,Non-Smoker,Diabetes,179.3,72.3
+38,Female,21.5,Vegan,2,2,5,Sometimes,3.63,1.73,5+ times/week,High,Current Smoker,Heart Disease,180.1,69.6
+45,Male,27.1,Pescatarian,4,2,5,Often,2.3,0.63,5+ times/week,None,Current Smoker,Hypertension,196.2,104.3
+47,Other,33.2,Vegan,2,4,2,Sometimes,1.73,0.33,3-4 times/week,Occasional,Former Smoker,Diabetes,163.4,88.6
+37,Male,18.3,Vegetarian,2,1,3,Sometimes,1.84,0.55,5+ times/week,High,Former Smoker,Heart Disease,191.2,66.8
+36,Male,26.6,Omnivore,4,4,2,Often,3.71,0.57,1-2 times/week,None,Non-Smoker,Hypertension,195.3,101.6
+49,Other,30.1,Omnivore,4,4,2,Never,0.95,1.39,5+ times/week,Occasional,Non-Smoker,Hypertension,150.2,67.9
+41,Male,40.9,Pescatarian,0,1,3,Never,0.87,0.98,1-2 times/week,None,Non-Smoker,Hypertension,167.0,114.1
+45,Other,22.9,Vegetarian,0,3,4,Rarely,0.62,1.89,1-2 times/week,High,Non-Smoker,Heart Disease,155.8,55.6
+19,Male,29.0,Pescatarian,4,1,3,Sometimes,2.18,1.14,1-2 times/week,High,Current Smoker,None,185.2,99.5
+27,Male,40.9,Vegetarian,2,4,2,Always,3.14,1.48,None,None,Current Smoker,Diabetes,155.5,98.8
+63,Female,16.5,Omnivore,3,4,1,Sometimes,3.5,0.37,5+ times/week,Moderate,Current Smoker,None,198.5,65.0
+36,Male,42.8,Pescatarian,0,3,2,Often,2.48,1.68,5+ times/week,None,Current Smoker,Hypertension,156.5,104.9
+27,Other,38.8,Vegan,3,0,2,Never,0.51,1.26,None,High,Non-Smoker,Heart Disease,159.4,98.6
+41,Other,22.4,Pescatarian,2,1,2,Often,1.72,1.6,3-4 times/week,High,Current Smoker,Diabetes,186.3,77.6
+53,Female,21.2,Omnivore,0,3,4,Never,2.88,1.92,3-4 times/week,Occasional,Non-Smoker,Diabetes,189.7,76.4
+22,Female,19.4,Vegan,4,4,3,Rarely,1.76,0.94,3-4 times/week,Moderate,Former Smoker,Heart Disease,163.0,51.5
+65,Other,25.2,Vegan,0,2,1,Rarely,1.92,1.38,3-4 times/week,None,Non-Smoker,Diabetes,190.7,91.8
+59,Female,34.2,Vegan,3,0,1,Never,3.26,0.67,3-4 times/week,Occasional,Former Smoker,None,185.1,117.1
+56,Other,29.3,Pescatarian,4,3,3,Always,2.31,0.71,5+ times/week,Occasional,Non-Smoker,Diabetes,172.4,87.2
+62,Male,28.0,Vegan,0,1,5,Sometimes,1.47,1.65,3-4 times/week,Moderate,Current Smoker,Heart Disease,180.9,91.7
+18,Other,29.1,Pescatarian,2,2,4,Always,1.77,0.11,3-4 times/week,Moderate,Former Smoker,Heart Disease,163.1,77.3
+34,Other,30.9,Vegan,4,0,5,Always,1.39,1.84,3-4 times/week,Moderate,Non-Smoker,Diabetes,170.3,89.6
+47,Female,37.8,Vegetarian,0,2,4,Sometimes,0.94,1.8,1-2 times/week,None,Non-Smoker,Heart Disease,172.8,112.9
+23,Male,27.2,Pescatarian,4,4,1,Sometimes,1.07,1.71,None,None,Current Smoker,Hypertension,163.8,73.1
+60,Female,20.9,Vegetarian,1,2,3,Never,3.36,1.47,5+ times/week,High,Non-Smoker,Diabetes,181.6,68.8
+50,Male,18.8,Vegan,1,3,2,Rarely,2.38,1.02,5+ times/week,None,Non-Smoker,Heart Disease,172.4,56.0
+49,Other,40.3,Vegetarian,1,0,2,Never,1.33,0.77,None,Occasional,Non-Smoker,Diabetes,169.9,116.2
+30,Female,34.1,Vegetarian,1,4,3,Sometimes,3.82,1.59,5+ times/week,Moderate,Current Smoker,Hypertension,186.8,118.9
+69,Female,24.4,Vegetarian,4,4,5,Rarely,0.66,0.66,1-2 times/week,None,Current Smoker,Diabetes,186.9,85.3
+21,Female,23.2,Vegetarian,2,4,5,Always,3.55,1.0,None,Occasional,Non-Smoker,Heart Disease,179.7,74.9
+53,Male,23.4,Vegetarian,1,2,1,Rarely,2.45,1.59,None,None,Non-Smoker,Diabetes,193.5,87.6
+64,Female,15.5,Vegetarian,4,0,2,Always,3.66,1.91,5+ times/week,High,Current Smoker,None,183.8,52.5
+54,Female,22.8,Vegetarian,3,2,1,Never,1.27,1.47,None,Moderate,Former Smoker,Hypertension,174.1,69.1
+51,Male,40.2,Pescatarian,0,4,3,Often,2.56,1.04,None,Moderate,Non-Smoker,Diabetes,154.7,96.1
+41,Female,30.7,Vegan,1,3,3,Never,2.97,0.58,5+ times/week,Occasional,Former Smoker,Hypertension,196.6,118.6
+55,Female,35.9,Vegetarian,0,1,5,Often,1.17,1.56,None,High,Current Smoker,Hypertension,164.8,97.5
+33,Other,46.2,Vegan,3,4,4,Sometimes,2.93,0.5,3-4 times/week,Moderate,Current Smoker,Heart Disease,160.5,118.9
+33,Male,35.0,Pescatarian,2,3,1,Never,2.68,1.88,None,Moderate,Non-Smoker,Diabetes,159.9,89.4
+64,Other,22.0,Vegan,1,1,1,Sometimes,1.59,1.4,1-2 times/week,Occasional,Current Smoker,Diabetes,166.6,61.0
+23,Female,21.5,Pescatarian,3,4,2,Sometimes,2.14,1.34,3-4 times/week,None,Current Smoker,Hypertension,171.8,63.6
+65,Male,32.5,Pescatarian,2,1,2,Often,1.74,0.75,5+ times/week,Moderate,Former Smoker,Diabetes,176.5,101.2
+62,Female,24.4,Vegan,3,1,3,Often,2.65,1.13,None,None,Former Smoker,Diabetes,189.2,87.4
+23,Male,20.3,Omnivore,1,0,5,Always,0.68,0.31,None,None,Former Smoker,None,198.7,80.2
+49,Male,24.6,Omnivore,3,4,5,Sometimes,1.63,1.17,3-4 times/week,High,Current Smoker,Heart Disease,190.7,89.6
+33,Male,22.4,Omnivore,1,0,5,Always,3.51,0.24,3-4 times/week,Moderate,Former Smoker,Diabetes,180.5,73.0
+40,Male,16.9,Pescatarian,4,2,1,Often,1.38,0.35,5+ times/week,Occasional,Current Smoker,Hypertension,196.9,65.6
+19,Female,15.0,Pescatarian,3,0,5,Always,2.48,0.2,3-4 times/week,None,Current Smoker,Heart Disease,187.5,52.7
+55,Male,15.4,Vegetarian,1,2,4,Always,3.76,0.88,1-2 times/week,Moderate,Current Smoker,Diabetes,191.7,56.6
+20,Male,27.8,Vegetarian,0,1,4,Always,3.64,0.58,3-4 times/week,High,Current Smoker,Diabetes,186.4,96.7
+25,Other,30.6,Vegetarian,0,2,3,Always,3.54,0.84,1-2 times/week,Moderate,Current Smoker,Heart Disease,165.6,83.9
+55,Female,28.9,Vegan,3,3,4,Never,3.27,0.86,None,High,Current Smoker,Diabetes,170.0,83.5
+61,Other,16.3,Vegetarian,1,0,2,Often,1.67,1.96,3-4 times/week,Moderate,Former Smoker,None,177.5,51.3
+67,Male,22.3,Vegetarian,1,0,2,Rarely,2.86,1.61,1-2 times/week,High,Current Smoker,Diabetes,174.3,67.8
+35,Male,31.1,Omnivore,3,3,4,Always,0.73,1.01,5+ times/week,Occasional,Non-Smoker,None,159.6,79.1
+39,Female,25.6,Pescatarian,4,3,1,Rarely,1.53,0.87,3-4 times/week,Moderate,Non-Smoker,Hypertension,187.4,89.8
+68,Female,17.3,Vegan,3,4,2,Never,0.54,1.98,None,None,Non-Smoker,None,170.5,50.3
+61,Other,24.0,Pescatarian,2,2,4,Rarely,1.48,0.97,1-2 times/week,High,Former Smoker,None,186.2,83.2
+22,Other,35.0,Vegetarian,4,4,4,Sometimes,2.79,0.21,5+ times/week,Occasional,Former Smoker,Diabetes,176.1,108.4
+59,Male,20.0,Vegan,1,3,3,Rarely,2.35,1.51,3-4 times/week,High,Former Smoker,Diabetes,173.4,60.0
+58,Female,14.6,Pescatarian,0,3,1,Always,0.96,0.79,3-4 times/week,None,Non-Smoker,Heart Disease,192.2,53.8
+41,Female,27.2,Vegetarian,0,2,4,Sometimes,0.74,0.89,3-4 times/week,None,Non-Smoker,Diabetes,192.7,100.9
+18,Other,23.4,Pescatarian,0,0,4,Sometimes,2.44,0.68,3-4 times/week,None,Current Smoker,Heart Disease,178.9,75.0
+53,Male,27.9,Pescatarian,0,0,5,Always,3.97,0.43,1-2 times/week,High,Non-Smoker,Heart Disease,189.0,99.7
+42,Male,29.7,Omnivore,0,3,1,Always,1.69,1.72,3-4 times/week,Occasional,Current Smoker,Hypertension,180.8,97.2
+46,Other,23.4,Pescatarian,2,1,4,Never,1.28,0.6,None,Occasional,Non-Smoker,Hypertension,187.9,82.5
+36,Male,16.7,Pescatarian,3,2,2,Never,2.94,0.8,1-2 times/week,Occasional,Current Smoker,Heart Disease,196.7,64.7
+46,Other,27.4,Pescatarian,2,2,5,Always,3.95,1.19,None,Occasional,Non-Smoker,Diabetes,178.0,86.8
+69,Other,16.4,Vegan,0,1,3,Always,2.93,1.54,1-2 times/week,Moderate,Non-Smoker,Hypertension,191.2,60.0
+63,Male,20.5,Vegan,3,1,4,Rarely,1.88,0.43,1-2 times/week,Occasional,Current Smoker,Diabetes,188.9,73.3
+68,Male,32.8,Pescatarian,0,1,4,Always,2.82,0.24,None,Occasional,Former Smoker,Heart Disease,184.0,110.9
+33,Male,38.2,Pescatarian,2,3,2,Always,2.45,1.91,None,Moderate,Current Smoker,None,158.9,96.4
+18,Male,24.8,Vegan,4,1,1,Rarely,0.86,1.23,None,Occasional,Non-Smoker,None,168.9,70.8
+53,Other,32.8,Vegetarian,3,1,5,Rarely,2.95,1.56,5+ times/week,Moderate,Non-Smoker,Diabetes,179.5,105.6
+47,Female,28.1,Pescatarian,4,3,1,Sometimes,0.73,0.55,3-4 times/week,Occasional,Non-Smoker,Heart Disease,165.5,77.0
+54,Male,35.2,Pescatarian,2,1,3,Never,1.43,1.18,5+ times/week,None,Non-Smoker,Hypertension,169.6,101.3
+55,Female,28.8,Omnivore,0,1,3,Sometimes,2.11,0.57,1-2 times/week,Moderate,Former Smoker,Diabetes,177.2,90.3
+25,Other,38.9,Pescatarian,0,2,4,Rarely,2.44,0.89,3-4 times/week,Moderate,Former Smoker,Heart Disease,174.5,118.6
+25,Female,18.3,Vegan,3,4,3,Always,3.98,0.25,3-4 times/week,None,Former Smoker,Hypertension,189.9,65.9
+30,Other,33.2,Vegan,4,2,3,Always,2.83,1.53,1-2 times/week,Moderate,Current Smoker,Diabetes,159.6,84.5
+58,Male,23.5,Vegan,2,4,1,Always,0.95,1.63,5+ times/week,Moderate,Former Smoker,Heart Disease,184.5,80.0
+44,Male,35.9,Vegetarian,2,0,1,Often,3.09,1.84,None,High,Current Smoker,Hypertension,165.5,98.3
+33,Male,46.8,Pescatarian,0,2,3,Always,1.35,0.72,3-4 times/week,High,Non-Smoker,Hypertension,159.2,118.5
+66,Male,17.5,Vegetarian,1,1,2,Rarely,2.23,1.7,1-2 times/week,Moderate,Former Smoker,Heart Disease,182.2,58.0
+22,Male,30.1,Pescatarian,2,3,5,Sometimes,3.85,1.74,1-2 times/week,High,Non-Smoker,Hypertension,173.0,90.1
+20,Male,13.9,Pescatarian,2,4,5,Sometimes,2.4,1.88,5+ times/week,Occasional,Former Smoker,Heart Disease,199.9,55.4
+38,Female,23.1,Pescatarian,0,2,3,Never,1.45,0.63,None,High,Non-Smoker,Diabetes,195.6,88.4
+23,Female,30.8,Pescatarian,4,4,5,Often,1.69,1.94,1-2 times/week,None,Non-Smoker,Heart Disease,195.1,117.4
+54,Other,50.4,Omnivore,1,4,3,Always,1.42,0.68,None,High,Current Smoker,Heart Disease,150.2,113.8
+36,Other,35.6,Vegan,1,4,5,Always,0.81,1.65,5+ times/week,None,Non-Smoker,None,152.8,83.2
+23,Other,27.0,Omnivore,1,1,5,Never,2.4,1.63,3-4 times/week,Occasional,Non-Smoker,None,191.5,99.0
+67,Other,22.2,Omnivore,1,4,1,Always,2.63,1.34,5+ times/week,Occasional,Former Smoker,Hypertension,197.7,86.8
+31,Female,30.9,Pescatarian,4,2,2,Often,0.93,1.84,3-4 times/week,Moderate,Non-Smoker,Hypertension,184.0,104.5
+47,Other,29.5,Vegan,2,0,2,Often,1.76,1.78,None,Moderate,Former Smoker,Hypertension,193.8,110.9
+22,Male,19.3,Omnivore,0,3,5,Always,3.23,0.7,3-4 times/week,High,Non-Smoker,Hypertension,163.8,51.8
+37,Female,32.5,Vegan,0,0,1,Never,1.89,0.82,3-4 times/week,Occasional,Former Smoker,Heart Disease,164.9,88.3
+31,Male,20.2,Vegan,1,0,2,Often,2.63,0.63,5+ times/week,Occasional,Non-Smoker,Diabetes,196.6,78.1
+50,Male,31.2,Vegan,0,0,5,Rarely,0.89,1.5,5+ times/week,Moderate,Former Smoker,Diabetes,185.3,107.2
+46,Female,25.1,Vegan,2,3,4,Never,3.35,0.05,None,None,Current Smoker,Diabetes,189.4,90.1
+55,Other,38.1,Vegetarian,3,3,2,Rarely,2.21,0.71,None,Moderate,Current Smoker,Heart Disease,158.7,96.0
+48,Female,36.9,Vegan,3,2,4,Often,2.71,2.0,3-4 times/week,Moderate,Current Smoker,None,169.7,106.3
+46,Other,25.3,Vegan,3,1,4,Never,3.81,0.48,None,None,Current Smoker,Diabetes,197.3,98.3
+56,Female,18.2,Vegan,1,1,1,Always,3.97,0.18,3-4 times/week,Occasional,Non-Smoker,Heart Disease,176.1,56.4
+50,Other,29.0,Vegetarian,1,1,3,Sometimes,1.19,0.57,5+ times/week,Occasional,Non-Smoker,None,174.8,88.5
+67,Other,31.2,Vegan,2,1,2,Often,2.49,1.2,3-4 times/week,Occasional,Former Smoker,Heart Disease,190.1,112.8
+19,Male,24.1,Omnivore,2,3,2,Rarely,3.56,1.55,1-2 times/week,None,Current Smoker,None,180.7,78.8
+39,Other,37.8,Vegetarian,4,4,5,Always,1.9,0.04,None,Occasional,Non-Smoker,None,151.5,86.8
+40,Male,31.2,Vegetarian,0,4,5,Never,1.09,1.09,5+ times/week,None,Former Smoker,Hypertension,162.1,81.9
+29,Other,32.8,Omnivore,0,0,2,Never,3.36,1.77,3-4 times/week,High,Current Smoker,Hypertension,160.4,84.5
+67,Other,31.1,Omnivore,0,4,2,Often,1.19,1.25,1-2 times/week,Moderate,Non-Smoker,None,173.1,93.2
+35,Other,23.5,Pescatarian,1,2,2,Often,0.69,1.17,1-2 times/week,Moderate,Former Smoker,Heart Disease,167.1,65.7
+24,Male,45.9,Vegan,2,0,3,Often,2.18,1.36,1-2 times/week,High,Former Smoker,Heart Disease,156.6,112.6
+26,Male,35.4,Pescatarian,4,2,4,Never,2.92,1.86,5+ times/week,High,Former Smoker,Diabetes,165.8,97.3
+23,Other,44.5,Omnivore,0,4,4,Rarely,3.93,0.41,3-4 times/week,Moderate,Current Smoker,Diabetes,159.5,113.3
+30,Other,38.9,Vegetarian,2,4,1,Rarely,1.22,0.86,3-4 times/week,High,Non-Smoker,Heart Disease,160.0,99.6
+33,Other,21.8,Omnivore,3,4,1,Often,0.65,0.07,5+ times/week,None,Current Smoker,Diabetes,160.3,56.0
+19,Male,30.6,Vegetarian,2,4,5,Sometimes,1.32,0.41,None,None,Current Smoker,None,185.5,105.4
+68,Female,37.4,Pescatarian,0,4,2,Always,2.43,0.62,1-2 times/week,Occasional,Former Smoker,Hypertension,152.0,86.3
+34,Male,23.7,Vegetarian,2,3,4,Always,2.82,0.42,3-4 times/week,Moderate,Former Smoker,Hypertension,174.6,72.4
+66,Female,30.5,Omnivore,1,3,5,Sometimes,1.17,1.97,5+ times/week,High,Current Smoker,Hypertension,181.0,99.9
+40,Other,21.0,Vegan,2,3,5,Never,1.05,0.75,5+ times/week,High,Current Smoker,Hypertension,183.8,71.0
+27,Male,23.6,Omnivore,0,2,5,Never,3.46,0.31,3-4 times/week,Moderate,Former Smoker,Hypertension,184.9,80.8
+30,Other,28.4,Pescatarian,1,1,5,Always,1.11,0.27,3-4 times/week,High,Non-Smoker,Hypertension,166.9,79.0
+63,Female,34.8,Pescatarian,3,0,4,Rarely,3.24,0.26,3-4 times/week,High,Non-Smoker,Hypertension,161.2,90.3
+64,Male,33.4,Vegan,0,1,2,Sometimes,3.97,0.98,3-4 times/week,Occasional,Former Smoker,None,176.2,103.8
+54,Other,22.3,Omnivore,1,4,5,Rarely,3.72,0.31,1-2 times/week,Occasional,Former Smoker,Diabetes,158.3,56.0
+46,Male,28.0,Pescatarian,4,4,5,Often,2.7,1.83,None,Occasional,Current Smoker,Diabetes,199.8,111.7
+23,Female,21.5,Omnivore,2,2,2,Often,1.72,0.27,None,High,Non-Smoker,Heart Disease,183.2,72.2
+37,Male,21.7,Vegetarian,0,3,2,Sometimes,0.92,1.81,5+ times/week,Occasional,Former Smoker,Heart Disease,175.3,66.7
+22,Male,35.1,Pescatarian,2,1,3,Often,0.61,0.32,5+ times/week,None,Current Smoker,Hypertension,184.5,119.5
+40,Other,46.1,Vegetarian,4,1,2,Often,3.8,0.97,3-4 times/week,High,Former Smoker,Heart Disease,157.6,114.5
+62,Other,28.5,Vegetarian,3,4,5,Never,1.11,0.68,None,Moderate,Non-Smoker,Heart Disease,155.8,69.3
+38,Other,28.1,Omnivore,3,2,1,Sometimes,1.65,0.81,5+ times/week,High,Current Smoker,None,157.3,69.6
+26,Female,39.5,Pescatarian,2,2,2,Rarely,3.01,1.26,3-4 times/week,None,Non-Smoker,Heart Disease,157.3,97.7
+40,Other,27.6,Omnivore,1,0,2,Often,0.61,0.11,None,High,Non-Smoker,None,185.8,95.2
+32,Female,31.3,Vegetarian,4,1,5,Often,1.79,0.93,1-2 times/week,Moderate,Non-Smoker,Diabetes,181.3,102.9
+29,Female,21.1,Vegetarian,2,2,4,Sometimes,2.37,1.59,3-4 times/week,None,Current Smoker,Diabetes,186.1,73.0
+57,Female,41.5,Vegetarian,3,2,3,Never,1.54,0.41,5+ times/week,Moderate,Current Smoker,Diabetes,162.6,109.7
+51,Male,38.0,Omnivore,1,4,2,Often,1.54,0.1,1-2 times/week,None,Non-Smoker,Diabetes,158.1,95.1
+36,Male,25.8,Omnivore,0,1,5,Often,0.72,1.11,None,Moderate,Former Smoker,Diabetes,174.4,78.4
+50,Male,27.7,Vegan,1,1,5,Sometimes,3.74,1.85,3-4 times/week,Moderate,Non-Smoker,Diabetes,192.5,102.7
+18,Other,33.8,Vegetarian,4,1,2,Always,1.48,0.54,3-4 times/week,High,Former Smoker,Diabetes,163.2,89.9
+25,Other,17.9,Pescatarian,0,1,2,Rarely,3.05,0.45,None,Occasional,Non-Smoker,Hypertension,173.7,53.9
+45,Male,19.0,Vegan,0,2,5,Often,1.7,1.67,5+ times/week,Occasional,Non-Smoker,Hypertension,191.6,69.9
+42,Female,28.9,Pescatarian,1,2,5,Never,1.28,0.49,5+ times/week,Moderate,Former Smoker,Hypertension,185.3,99.3
+65,Female,36.9,Vegetarian,0,0,1,Never,2.35,1.02,1-2 times/week,Moderate,Former Smoker,Hypertension,151.1,84.2
+35,Other,32.0,Pescatarian,2,0,5,Sometimes,2.08,0.94,3-4 times/week,Occasional,Former Smoker,Heart Disease,188.2,113.4
+37,Male,35.0,Omnivore,1,3,4,Often,3.19,0.82,None,High,Non-Smoker,Hypertension,172.3,103.9
+37,Female,29.2,Vegetarian,2,3,3,Rarely,1.18,1.4,3-4 times/week,Moderate,Former Smoker,None,192.7,108.3
+31,Male,32.6,Vegan,4,1,3,Sometimes,2.4,0.12,1-2 times/week,Moderate,Non-Smoker,Diabetes,173.9,98.6
+37,Female,28.0,Vegan,3,1,3,Rarely,2.26,1.9,None,Occasional,Former Smoker,Hypertension,198.6,110.5
+60,Female,24.7,Vegan,2,2,4,Never,2.89,1.12,None,Occasional,Non-Smoker,Heart Disease,176.3,76.7
+45,Female,28.5,Vegan,1,0,1,Never,2.31,0.91,5+ times/week,High,Non-Smoker,None,183.4,95.9
+29,Male,25.8,Pescatarian,2,4,4,Always,3.95,1.59,None,Occasional,Non-Smoker,Heart Disease,152.8,60.3
+66,Male,44.3,Pescatarian,0,3,1,Never,3.5,0.14,None,Occasional,Former Smoker,Hypertension,151.8,102.0
+21,Male,14.1,Vegan,1,4,3,Always,1.07,0.91,5+ times/week,Occasional,Current Smoker,Heart Disease,189.4,50.7
+58,Male,34.7,Omnivore,2,2,1,Sometimes,0.86,1.89,3-4 times/week,Occasional,Former Smoker,Diabetes,181.9,114.7
+56,Female,32.3,Vegetarian,0,0,1,Rarely,3.84,0.78,None,High,Non-Smoker,Heart Disease,173.2,96.9
+33,Male,43.4,Omnivore,3,2,5,Often,3.46,1.22,1-2 times/week,Moderate,Current Smoker,Diabetes,163.7,116.2
+40,Female,25.5,Vegan,0,2,3,Often,1.1,1.37,3-4 times/week,High,Non-Smoker,Heart Disease,178.2,81.0
+43,Female,35.7,Omnivore,1,0,3,Often,2.79,1.94,1-2 times/week,Occasional,Current Smoker,None,174.0,108.0
+31,Female,24.3,Pescatarian,3,0,3,Sometimes,1.38,0.51,1-2 times/week,Moderate,Non-Smoker,Hypertension,191.8,89.4
+64,Male,25.9,Vegetarian,1,3,1,Never,2.63,1.03,1-2 times/week,None,Non-Smoker,Hypertension,184.6,88.3
+25,Other,37.0,Pescatarian,1,4,4,Often,3.96,1.13,1-2 times/week,None,Current Smoker,Diabetes,161.9,97.0
+32,Other,39.5,Pescatarian,4,3,2,Rarely,2.46,0.43,3-4 times/week,High,Former Smoker,Hypertension,166.0,108.8
+46,Male,17.7,Vegan,3,2,1,Never,3.9,0.57,1-2 times/week,None,Non-Smoker,Heart Disease,191.3,64.7
+31,Female,19.5,Vegetarian,2,2,4,Often,1.49,1.87,None,Occasional,Former Smoker,None,186.0,67.3
+52,Female,27.2,Vegetarian,0,4,1,Often,3.05,1.55,3-4 times/week,Occasional,Current Smoker,Heart Disease,154.0,64.4
+69,Other,25.3,Omnivore,3,2,5,Sometimes,1.99,1.13,1-2 times/week,None,Former Smoker,Hypertension,159.7,64.4
+28,Female,43.0,Vegetarian,1,3,5,Often,3.78,1.5,None,Moderate,Current Smoker,Diabetes,155.5,103.9
+49,Male,15.0,Omnivore,1,1,1,Often,0.56,1.84,3-4 times/week,None,Non-Smoker,Heart Disease,188.3,53.1
+62,Female,40.3,Vegan,0,0,3,Often,1.13,0.28,3-4 times/week,Occasional,Current Smoker,Diabetes,163.6,107.8
+66,Female,17.1,Vegetarian,1,2,3,Always,2.56,1.53,1-2 times/week,None,Former Smoker,Heart Disease,182.9,57.3
+54,Male,23.1,Vegan,3,0,2,Often,0.68,0.07,5+ times/week,None,Current Smoker,Heart Disease,156.3,56.4
+56,Other,19.1,Pescatarian,2,2,5,Never,3.04,1.34,None,High,Non-Smoker,Hypertension,195.3,72.9
+63,Male,25.2,Pescatarian,1,4,4,Always,3.67,1.68,3-4 times/week,Moderate,Non-Smoker,Heart Disease,164.3,68.1
+27,Other,40.3,Vegan,0,1,3,Never,1.31,1.33,None,Occasional,Former Smoker,Diabetes,167.4,112.8
+49,Other,18.3,Vegetarian,4,1,2,Rarely,1.82,0.71,5+ times/week,High,Non-Smoker,None,197.9,71.7
+65,Female,29.8,Pescatarian,2,1,3,Never,1.11,1.36,3-4 times/week,Occasional,Non-Smoker,Heart Disease,184.9,101.8
+22,Male,30.0,Vegetarian,3,0,2,Sometimes,3.13,1.49,None,Moderate,Non-Smoker,Hypertension,156.4,73.5
+18,Other,17.9,Vegan,4,4,3,Rarely,1.73,1.35,5+ times/week,Moderate,Non-Smoker,None,182.2,59.3
+58,Female,21.9,Vegetarian,0,4,4,Sometimes,2.65,0.86,3-4 times/week,Occasional,Former Smoker,None,182.4,72.8
+45,Male,15.3,Vegetarian,2,3,2,Never,2.94,1.42,None,Occasional,Non-Smoker,Diabetes,193.8,57.3
+61,Other,29.0,Vegetarian,2,4,5,Sometimes,2.25,0.37,5+ times/week,Occasional,Non-Smoker,Heart Disease,195.6,111.1
+30,Other,30.2,Pescatarian,3,3,3,Never,0.6,0.87,None,High,Current Smoker,Hypertension,171.5,88.9
+30,Female,32.9,Vegetarian,0,3,4,Never,1.55,0.25,1-2 times/week,Moderate,Current Smoker,Hypertension,181.9,108.9
+37,Other,27.1,Pescatarian,4,3,2,Never,1.06,0.43,1-2 times/week,Occasional,Non-Smoker,Heart Disease,189.0,96.7
+38,Male,29.2,Vegetarian,2,4,1,Rarely,1.24,1.56,None,High,Former Smoker,Hypertension,175.5,89.9
+28,Male,34.3,Vegetarian,0,4,1,Never,1.9,0.83,5+ times/week,None,Non-Smoker,None,174.0,103.8
+47,Female,20.0,Vegan,0,0,5,Often,0.76,1.46,None,None,Non-Smoker,None,169.2,57.3
+32,Female,24.4,Vegetarian,4,3,1,Always,2.84,1.71,5+ times/week,None,Current Smoker,Heart Disease,188.0,86.3
+46,Female,45.1,Vegan,2,0,2,Rarely,3.44,1.99,None,None,Current Smoker,Diabetes,158.9,113.9
+45,Other,20.4,Pescatarian,2,0,4,Always,1.74,1.31,3-4 times/week,None,Current Smoker,Diabetes,191.3,74.7
+25,Male,28.0,Vegetarian,2,2,1,Often,2.99,0.83,3-4 times/week,Occasional,Non-Smoker,Hypertension,198.3,110.1
+31,Male,23.6,Omnivore,0,1,2,Never,3.61,0.13,None,Occasional,Current Smoker,Diabetes,194.9,89.5
+46,Other,42.7,Pescatarian,3,0,2,Never,3.57,0.58,None,None,Current Smoker,Diabetes,151.1,97.5
+65,Male,26.4,Vegan,4,4,2,Always,3.6,0.82,3-4 times/week,Moderate,Current Smoker,None,167.6,74.2
+35,Male,16.9,Omnivore,4,0,1,Never,1.92,0.8,None,High,Current Smoker,Heart Disease,196.6,65.3
+67,Other,26.3,Pescatarian,2,1,1,Rarely,0.54,0.07,3-4 times/week,Occasional,Former Smoker,Diabetes,191.2,96.1
+39,Other,28.3,Pescatarian,3,4,3,Sometimes,1.78,1.4,None,None,Non-Smoker,None,196.7,109.4
+22,Other,33.5,Omnivore,3,3,1,Sometimes,1.13,0.29,5+ times/week,Occasional,Non-Smoker,None,167.7,94.3
+51,Female,39.7,Omnivore,0,4,3,Often,0.52,1.91,5+ times/week,High,Non-Smoker,Hypertension,172.3,117.8
+45,Other,28.9,Vegan,2,0,2,Always,1.98,1.81,None,Moderate,Non-Smoker,Hypertension,183.0,96.7
+57,Other,33.3,Vegan,0,0,5,Often,1.79,1.22,5+ times/week,Moderate,Former Smoker,None,159.5,84.7
+50,Male,21.3,Pescatarian,0,4,4,Often,3.69,0.2,None,High,Non-Smoker,None,199.1,84.4
+45,Male,18.0,Omnivore,4,2,5,Sometimes,3.51,1.58,None,None,Former Smoker,Hypertension,195.0,68.3
+45,Male,39.3,Omnivore,4,1,3,Often,2.6,1.53,None,High,Non-Smoker,None,161.0,101.9
+34,Other,28.8,Vegetarian,3,4,5,Rarely,2.41,0.47,1-2 times/week,High,Current Smoker,Diabetes,177.0,90.3
+50,Male,19.5,Vegetarian,4,1,4,Sometimes,0.92,1.48,5+ times/week,High,Non-Smoker,None,179.5,62.9
+19,Female,23.5,Pescatarian,1,3,3,Sometimes,2.19,0.46,None,High,Non-Smoker,None,153.8,55.5
+51,Female,26.0,Pescatarian,3,4,4,Often,2.17,1.63,1-2 times/week,Moderate,Non-Smoker,None,179.0,83.2
+68,Other,29.0,Pescatarian,3,0,2,Sometimes,2.59,0.06,5+ times/week,High,Current Smoker,Diabetes,180.3,94.3
+34,Female,16.4,Vegan,1,2,2,Sometimes,3.67,1.06,3-4 times/week,High,Current Smoker,Diabetes,187.7,57.8
+66,Female,20.4,Pescatarian,1,0,3,Always,1.02,0.53,3-4 times/week,Moderate,Non-Smoker,Hypertension,177.7,64.5
+68,Other,24.4,Vegetarian,2,1,2,Never,3.48,1.36,5+ times/week,High,Former Smoker,Diabetes,190.4,88.5
+41,Other,35.6,Vegan,0,0,3,Sometimes,2.99,0.84,None,Moderate,Non-Smoker,Hypertension,154.4,84.9
+48,Male,16.3,Omnivore,4,3,2,Sometimes,2.63,1.75,None,High,Non-Smoker,None,181.7,53.7
+34,Male,26.2,Omnivore,4,1,5,Rarely,2.77,0.37,None,None,Current Smoker,Hypertension,153.9,62.1
+21,Female,21.8,Vegan,3,3,3,Often,2.74,0.21,5+ times/week,High,Current Smoker,Heart Disease,157.0,53.8
+48,Male,27.7,Omnivore,0,0,5,Sometimes,2.49,1.7,5+ times/week,High,Non-Smoker,Diabetes,181.5,91.1
+41,Female,36.6,Vegan,1,2,4,Never,3.45,0.81,3-4 times/week,None,Former Smoker,Hypertension,161.1,95.0
+49,Female,33.8,Vegan,2,0,5,Sometimes,3.57,0.98,3-4 times/week,Occasional,Non-Smoker,Diabetes,150.3,76.4
+57,Other,23.1,Vegan,4,0,4,Never,1.56,1.84,None,None,Non-Smoker,Diabetes,176.8,72.1
+25,Other,36.1,Omnivore,2,4,1,Often,2.03,1.4,5+ times/week,None,Current Smoker,Heart Disease,178.0,114.4
+59,Other,42.0,Omnivore,1,0,3,Never,3.43,1.66,5+ times/week,None,Former Smoker,Heart Disease,155.2,101.1
+24,Male,32.4,Pescatarian,4,0,2,Sometimes,1.95,0.84,None,Occasional,Former Smoker,Hypertension,179.8,104.8
+68,Male,19.3,Omnivore,3,0,5,Often,0.52,1.81,None,None,Former Smoker,Hypertension,183.1,64.7
+67,Other,31.6,Pescatarian,2,2,1,Sometimes,0.88,1.97,5+ times/week,Moderate,Non-Smoker,Diabetes,151.9,73.0
+54,Male,37.1,Pescatarian,4,0,5,Always,1.24,1.99,1-2 times/week,Occasional,Current Smoker,Hypertension,176.1,114.9
+65,Female,25.9,Pescatarian,2,3,4,Often,3.99,0.95,1-2 times/week,Moderate,Current Smoker,Hypertension,171.3,76.0
+38,Male,17.1,Pescatarian,2,0,5,Often,3.02,0.96,1-2 times/week,Moderate,Current Smoker,Diabetes,190.6,62.0
+38,Male,21.9,Vegan,3,3,3,Sometimes,3.38,0.34,5+ times/week,Occasional,Current Smoker,None,180.1,71.0
+56,Male,29.9,Pescatarian,4,3,1,Always,1.35,1.48,None,Moderate,Non-Smoker,None,185.2,102.6
+61,Male,40.7,Vegetarian,3,2,5,Sometimes,2.65,0.01,5+ times/week,High,Former Smoker,Heart Disease,159.6,103.7
+35,Other,23.7,Vegan,0,4,1,Sometimes,2.76,1.4,1-2 times/week,None,Current Smoker,Diabetes,168.6,67.5
+26,Male,21.7,Pescatarian,1,4,3,Rarely,2.09,1.12,None,High,Current Smoker,Heart Disease,196.3,83.7
+43,Male,40.7,Pescatarian,1,1,3,Sometimes,1.9,1.25,3-4 times/week,None,Former Smoker,Heart Disease,165.6,111.7
+36,Female,46.3,Omnivore,2,3,1,Often,2.96,1.43,5+ times/week,Occasional,Non-Smoker,Heart Disease,159.0,117.1
+43,Male,14.5,Vegetarian,4,3,2,Always,2.91,0.92,5+ times/week,Occasional,Former Smoker,Heart Disease,190.1,52.5
+65,Female,22.8,Omnivore,1,2,4,Always,0.92,1.58,5+ times/week,Moderate,Non-Smoker,None,189.8,82.3
+56,Female,38.3,Pescatarian,0,2,3,Always,3.8,0.79,3-4 times/week,Moderate,Current Smoker,Hypertension,165.8,105.3
+62,Female,26.2,Vegetarian,2,1,4,Always,0.86,1.76,1-2 times/week,Occasional,Former Smoker,Heart Disease,181.3,86.2
+39,Female,33.1,Vegan,1,3,2,Often,3.87,1.89,1-2 times/week,High,Current Smoker,Heart Disease,162.1,87.1
+47,Female,28.0,Pescatarian,1,0,3,Rarely,2.49,0.92,5+ times/week,Moderate,Non-Smoker,None,172.2,82.9
+20,Male,31.8,Vegetarian,4,1,3,Sometimes,2.38,1.02,1-2 times/week,Occasional,Non-Smoker,Hypertension,183.2,106.6
+57,Female,21.7,Pescatarian,0,0,2,Rarely,2.1,0.44,5+ times/week,High,Current Smoker,None,153.0,50.7
+29,Other,32.3,Vegetarian,2,2,4,Never,3.93,1.39,3-4 times/week,None,Non-Smoker,Hypertension,188.0,114.1
+21,Other,43.5,Pescatarian,3,4,1,Always,3.73,1.9,None,Moderate,Former Smoker,Diabetes,160.3,111.7
+22,Female,29.2,Vegetarian,4,4,2,Sometimes,0.74,1.57,5+ times/week,High,Former Smoker,Hypertension,193.7,109.4
+52,Male,26.8,Omnivore,2,3,4,Never,2.64,1.58,5+ times/week,Occasional,Current Smoker,Hypertension,165.7,73.6
+56,Male,21.1,Pescatarian,2,1,3,Sometimes,1.47,0.22,5+ times/week,High,Former Smoker,Heart Disease,165.2,57.5
+29,Female,27.2,Vegan,2,3,5,Always,3.84,0.54,None,Occasional,Former Smoker,None,189.6,97.6
+65,Female,20.4,Omnivore,4,0,3,Rarely,2.11,0.27,1-2 times/week,High,Current Smoker,Heart Disease,182.5,67.8
+52,Female,24.7,Pescatarian,3,1,2,Sometimes,0.92,0.39,None,Occasional,Current Smoker,Heart Disease,180.2,80.1
+46,Female,31.6,Pescatarian,4,1,4,Always,3.32,1.57,5+ times/week,None,Current Smoker,Hypertension,167.9,89.1
+25,Male,24.8,Pescatarian,3,4,2,Never,2.59,1.93,1-2 times/week,Moderate,Current Smoker,Heart Disease,161.3,64.5
+50,Female,25.0,Pescatarian,1,4,1,Sometimes,2.66,1.64,None,None,Former Smoker,Hypertension,170.6,72.7
+31,Male,21.5,Vegan,4,4,4,Rarely,0.62,0.51,None,Moderate,Current Smoker,None,175.0,65.7
+31,Male,21.3,Vegan,2,2,5,Never,3.56,1.6,1-2 times/week,Occasional,Former Smoker,Hypertension,163.6,57.0
+32,Other,19.2,Vegan,0,1,2,Rarely,1.25,1.49,None,Moderate,Non-Smoker,Hypertension,194.8,72.8
+61,Female,20.4,Omnivore,1,3,4,Never,1.36,1.31,None,High,Non-Smoker,None,165.1,55.5
+68,Other,22.9,Omnivore,1,4,4,Often,1.53,1.69,3-4 times/week,None,Former Smoker,None,199.0,90.6
+30,Male,20.2,Omnivore,2,4,3,Often,1.06,1.47,3-4 times/week,None,Current Smoker,Hypertension,178.7,64.4
+18,Other,29.0,Pescatarian,1,3,4,Never,1.9,1.76,1-2 times/week,High,Former Smoker,Diabetes,195.0,110.2
+55,Other,28.4,Vegetarian,1,4,4,Never,2.72,0.81,None,Moderate,Former Smoker,Hypertension,179.0,90.9
+38,Female,26.3,Omnivore,0,1,2,Rarely,2.85,0.91,5+ times/week,Moderate,Non-Smoker,Hypertension,163.7,70.4
+36,Female,19.0,Vegan,2,3,2,Never,2.6,1.85,5+ times/week,Occasional,Former Smoker,Hypertension,198.7,74.9
+18,Male,41.4,Vegetarian,0,3,4,Rarely,1.6,1.06,3-4 times/week,Occasional,Current Smoker,None,159.8,105.8
+40,Female,22.1,Pescatarian,2,2,5,Sometimes,3.1,1.89,None,High,Current Smoker,None,152.4,51.4
+53,Female,28.0,Vegetarian,1,4,1,Sometimes,3.95,1.95,None,Occasional,Former Smoker,Hypertension,164.9,76.2
+49,Female,23.2,Vegetarian,3,2,3,Often,1.46,1.07,1-2 times/week,High,Former Smoker,Diabetes,198.1,91.0
+54,Female,41.5,Vegetarian,1,0,4,Sometimes,2.11,0.15,None,None,Non-Smoker,Hypertension,154.8,99.4
+27,Other,22.1,Pescatarian,2,3,5,Never,1.72,0.48,3-4 times/week,High,Non-Smoker,Heart Disease,198.3,87.0
+65,Other,31.4,Omnivore,2,3,3,Often,2.16,1.4,3-4 times/week,Occasional,Former Smoker,None,152.9,73.3
+68,Other,19.7,Vegetarian,0,3,2,Rarely,3.21,1.91,3-4 times/week,Moderate,Non-Smoker,Diabetes,193.9,74.0
+41,Other,27.5,Vegan,3,3,2,Always,2.61,1.37,5+ times/week,Occasional,Current Smoker,Hypertension,166.0,75.8
+24,Other,30.9,Omnivore,1,0,5,Sometimes,3.88,0.82,3-4 times/week,High,Current Smoker,None,181.0,101.3
+37,Other,39.4,Omnivore,4,3,2,Always,1.28,1.08,5+ times/week,Moderate,Non-Smoker,Diabetes,170.2,114.0
+18,Male,22.1,Omnivore,0,1,1,Often,2.36,0.3,5+ times/week,Moderate,Former Smoker,Diabetes,175.0,67.7
+65,Other,30.5,Vegetarian,2,2,5,Sometimes,3.39,1.97,3-4 times/week,Occasional,Former Smoker,None,151.3,69.9
+43,Male,24.1,Omnivore,4,3,5,Always,0.52,0.12,None,Occasional,Former Smoker,Heart Disease,150.4,54.6
+65,Other,25.7,Omnivore,0,0,5,Rarely,3.35,1.81,1-2 times/week,None,Non-Smoker,Diabetes,182.4,85.5
+61,Female,28.9,Vegetarian,0,3,3,Often,1.15,0.3,1-2 times/week,None,Current Smoker,None,195.4,110.3
+50,Male,35.0,Vegan,3,2,1,Sometimes,0.54,0.71,None,Occasional,Former Smoker,Diabetes,175.1,107.2
+32,Male,22.5,Pescatarian,3,1,4,Always,0.62,0.75,3-4 times/week,Occasional,Non-Smoker,Heart Disease,161.6,58.7
+28,Male,17.8,Vegan,4,0,5,Rarely,1.71,1.9,1-2 times/week,Occasional,Non-Smoker,Hypertension,176.8,55.5
+64,Other,37.0,Omnivore,0,4,1,Sometimes,2.66,0.34,1-2 times/week,None,Non-Smoker,Hypertension,151.1,84.5
+63,Female,52.3,Pescatarian,2,2,2,Never,1.76,0.79,1-2 times/week,Moderate,Non-Smoker,Heart Disease,150.0,117.7
+50,Male,16.2,Vegetarian,0,0,1,Always,1.91,0.56,5+ times/week,None,Current Smoker,Heart Disease,181.2,53.2
+52,Male,27.4,Vegan,4,0,1,Sometimes,1.85,0.82,5+ times/week,Moderate,Current Smoker,Heart Disease,194.7,103.7
+38,Other,36.1,Vegetarian,0,4,5,Rarely,1.22,0.29,1-2 times/week,Occasional,Non-Smoker,Heart Disease,181.6,119.2
+38,Male,32.2,Vegan,2,4,3,Rarely,2.11,0.16,5+ times/week,None,Non-Smoker,Heart Disease,187.1,112.8
+51,Other,39.7,Pescatarian,2,3,1,Often,2.0,0.19,3-4 times/week,Occasional,Current Smoker,Diabetes,150.7,90.2
+66,Female,42.3,Vegetarian,3,0,2,Rarely,1.87,1.39,1-2 times/week,Occasional,Non-Smoker,Diabetes,160.8,109.5
+53,Male,27.5,Vegetarian,4,0,2,Rarely,2.38,0.56,5+ times/week,None,Former Smoker,Diabetes,177.5,86.7
+51,Other,36.0,Vegetarian,1,4,3,Sometimes,3.86,0.8,1-2 times/week,Moderate,Former Smoker,Diabetes,168.7,102.4
+66,Male,23.0,Pescatarian,0,3,2,Rarely,3.53,1.22,3-4 times/week,Moderate,Current Smoker,Hypertension,189.5,82.6
+52,Other,15.6,Vegan,2,3,5,Never,1.2,0.83,None,High,Former Smoker,Hypertension,180.5,50.7
+37,Female,34.7,Pescatarian,3,1,3,Often,0.55,1.64,None,High,Current Smoker,None,158.4,87.0
+69,Male,22.3,Omnivore,1,4,5,Always,1.6,1.24,3-4 times/week,Moderate,Non-Smoker,None,171.2,65.5
+29,Other,23.2,Omnivore,3,3,5,Sometimes,3.34,0.18,None,Moderate,Former Smoker,Diabetes,177.8,73.2
+66,Female,26.7,Vegetarian,4,3,5,Always,2.94,0.32,None,Occasional,Current Smoker,Hypertension,180.9,87.5
+58,Female,31.9,Vegan,2,2,1,Rarely,0.75,1.88,3-4 times/week,High,Current Smoker,Heart Disease,178.8,102.0
+34,Male,27.4,Vegetarian,4,2,5,Sometimes,3.32,1.58,5+ times/week,Occasional,Former Smoker,Hypertension,194.0,103.0
+18,Other,19.6,Vegan,2,2,2,Sometimes,0.85,0.64,1-2 times/week,Occasional,Current Smoker,Diabetes,163.2,52.2
+37,Other,21.6,Omnivore,2,3,5,Always,3.07,0.21,3-4 times/week,Moderate,Former Smoker,Diabetes,176.7,67.5
+18,Other,20.3,Vegan,1,3,4,Always,1.51,0.24,None,High,Non-Smoker,Hypertension,185.9,70.3
+51,Other,44.9,Pescatarian,3,2,2,Rarely,1.09,1.14,None,Occasional,Former Smoker,Diabetes,158.7,113.1
+47,Other,19.4,Omnivore,2,3,2,Never,1.72,0.58,3-4 times/week,Moderate,Non-Smoker,Heart Disease,198.3,76.1
+52,Female,32.8,Vegan,4,2,2,Rarely,3.27,1.06,3-4 times/week,High,Current Smoker,Hypertension,167.1,91.6
+33,Other,33.2,Pescatarian,3,4,2,Always,2.74,1.6,3-4 times/week,None,Former Smoker,Hypertension,186.6,115.5
+69,Other,17.3,Vegetarian,2,0,5,Sometimes,2.81,0.09,1-2 times/week,High,Current Smoker,Diabetes,199.4,68.6
+27,Female,28.2,Omnivore,0,4,3,Often,1.52,0.82,5+ times/week,Occasional,Current Smoker,Diabetes,173.9,85.3
+31,Other,29.1,Omnivore,4,2,4,Always,3.36,0.46,1-2 times/week,Moderate,Current Smoker,Heart Disease,188.3,103.2
+35,Other,31.2,Omnivore,0,2,4,Always,3.07,0.78,1-2 times/week,Moderate,Current Smoker,None,189.7,112.3
+45,Other,37.2,Omnivore,1,0,2,Sometimes,0.74,1.92,None,Occasional,Non-Smoker,Hypertension,159.8,94.9
+25,Female,30.8,Vegan,3,2,1,Often,3.63,1.65,1-2 times/week,Occasional,Former Smoker,Heart Disease,174.1,93.3
+38,Male,23.1,Omnivore,0,3,3,Sometimes,3.74,1.78,None,Moderate,Current Smoker,Heart Disease,160.2,59.3
+58,Male,21.0,Vegan,3,0,1,Often,3.82,1.59,5+ times/week,High,Former Smoker,Heart Disease,157.9,52.4
+18,Male,19.3,Omnivore,3,4,5,Often,3.01,0.21,None,Moderate,Former Smoker,Heart Disease,176.2,59.9
+42,Male,19.7,Omnivore,4,2,1,Sometimes,2.3,1.17,1-2 times/week,High,Former Smoker,None,188.5,70.0
+19,Female,42.3,Vegan,1,0,2,Rarely,2.0,0.66,3-4 times/week,Moderate,Former Smoker,Diabetes,153.0,99.0
+69,Male,25.5,Vegetarian,0,1,4,Often,3.42,0.01,3-4 times/week,Occasional,Non-Smoker,Hypertension,188.5,90.6
+66,Female,33.2,Pescatarian,0,0,3,Never,3.33,1.41,1-2 times/week,Moderate,Non-Smoker,None,166.0,91.5
+56,Female,23.5,Vegetarian,3,3,3,Always,0.98,0.94,1-2 times/week,Occasional,Former Smoker,Hypertension,150.2,53.1
+41,Female,34.1,Pescatarian,4,4,1,Rarely,3.99,1.94,1-2 times/week,Moderate,Non-Smoker,Hypertension,174.7,104.1
+50,Other,35.6,Omnivore,3,0,2,Sometimes,1.96,0.15,3-4 times/week,Moderate,Non-Smoker,Diabetes,173.8,107.5
+32,Female,27.1,Omnivore,3,0,4,Often,3.61,0.84,1-2 times/week,Moderate,Current Smoker,Diabetes,158.5,68.2
+45,Other,19.9,Vegan,3,4,3,Never,3.59,1.68,3-4 times/week,Occasional,Non-Smoker,Diabetes,177.5,62.6
+57,Other,29.7,Omnivore,4,1,2,Rarely,1.0,0.73,5+ times/week,High,Current Smoker,None,151.8,68.5
+54,Female,36.6,Omnivore,3,4,2,Always,1.11,1.33,5+ times/week,Occasional,Non-Smoker,Heart Disease,172.0,108.3
+56,Other,28.7,Pescatarian,3,0,4,Sometimes,1.3,0.89,3-4 times/week,None,Former Smoker,Diabetes,168.6,81.7
+20,Other,26.6,Vegetarian,1,2,3,Always,2.74,1.76,None,High,Non-Smoker,None,195.4,101.4
+61,Female,22.3,Omnivore,4,0,1,Always,2.42,0.44,3-4 times/week,Occasional,Non-Smoker,Diabetes,159.5,56.8
+35,Other,15.8,Vegan,2,1,4,Never,2.51,0.64,5+ times/week,Moderate,Current Smoker,None,189.4,56.8
+69,Male,21.4,Omnivore,2,4,5,Sometimes,2.11,0.7,1-2 times/week,None,Current Smoker,None,199.0,84.6
+56,Other,35.0,Pescatarian,0,1,5,Always,3.13,1.55,1-2 times/week,High,Current Smoker,Hypertension,181.1,114.8
+24,Other,22.3,Pescatarian,3,0,2,Often,1.59,1.07,None,None,Former Smoker,Heart Disease,193.2,83.1
+48,Male,17.4,Pescatarian,1,4,3,Rarely,1.75,0.08,3-4 times/week,Occasional,Current Smoker,Diabetes,170.8,50.7
+57,Male,22.1,Vegan,0,0,5,Always,1.52,1.59,3-4 times/week,None,Non-Smoker,Heart Disease,163.1,58.9
+56,Male,19.8,Omnivore,2,3,2,Never,3.54,1.53,1-2 times/week,None,Non-Smoker,None,176.4,61.5
+53,Female,29.7,Pescatarian,3,3,4,Rarely,2.42,1.15,None,Occasional,Current Smoker,None,180.9,97.3
+67,Female,18.3,Omnivore,2,2,2,Never,2.68,0.64,3-4 times/week,Moderate,Non-Smoker,None,175.1,56.2
+67,Female,40.0,Vegetarian,3,2,5,Rarely,1.53,0.0,None,None,Current Smoker,Hypertension,164.3,108.0
+50,Male,15.7,Omnivore,1,0,4,Always,2.45,0.94,None,High,Current Smoker,Diabetes,181.1,51.4
+32,Male,24.7,Vegetarian,1,1,1,Never,2.33,1.75,5+ times/week,Moderate,Non-Smoker,Hypertension,197.0,95.7
+61,Other,26.6,Vegan,4,2,2,Always,2.69,1.64,1-2 times/week,None,Former Smoker,None,176.8,83.3
+25,Other,29.0,Omnivore,0,3,2,Sometimes,2.57,0.38,1-2 times/week,High,Current Smoker,Heart Disease,164.9,78.9
+39,Male,18.6,Omnivore,0,3,1,Always,3.46,0.82,3-4 times/week,High,Current Smoker,Diabetes,178.9,59.5
+40,Male,43.1,Pescatarian,4,1,3,Rarely,3.53,0.49,1-2 times/week,None,Former Smoker,Diabetes,160.6,111.1
+25,Male,36.6,Vegetarian,2,4,1,Sometimes,1.92,0.52,1-2 times/week,Moderate,Current Smoker,Diabetes,173.3,109.9
+68,Other,25.4,Vegan,0,3,2,Rarely,3.67,1.64,3-4 times/week,High,Former Smoker,None,156.3,62.0
+22,Male,27.3,Vegan,2,2,3,Never,2.66,0.87,3-4 times/week,Moderate,Former Smoker,Heart Disease,167.5,76.5
+55,Other,27.0,Omnivore,4,4,3,Always,2.03,1.22,None,None,Non-Smoker,None,192.0,99.5
+22,Female,18.1,Pescatarian,4,2,5,Never,1.61,1.81,3-4 times/week,Occasional,Non-Smoker,Diabetes,194.5,68.4
+69,Other,22.0,Vegetarian,0,2,4,Often,2.92,0.25,1-2 times/week,High,Current Smoker,Hypertension,152.5,51.1
+31,Female,33.7,Pescatarian,1,4,2,Sometimes,0.67,0.14,None,None,Non-Smoker,None,184.4,114.7
+46,Female,26.1,Vegetarian,2,3,3,Rarely,3.96,0.38,3-4 times/week,Moderate,Former Smoker,None,194.4,98.7
+32,Female,28.6,Vegan,2,4,4,Never,3.66,0.14,3-4 times/week,None,Current Smoker,None,174.9,87.5
+58,Other,22.4,Omnivore,0,3,3,Often,2.39,1.83,3-4 times/week,None,Non-Smoker,None,159.9,57.3
+59,Male,22.0,Pescatarian,1,3,1,Often,2.32,1.66,1-2 times/week,None,Non-Smoker,None,187.9,77.8
+21,Other,29.3,Vegan,3,1,3,Never,2.87,1.47,1-2 times/week,Occasional,Non-Smoker,Diabetes,169.0,83.8
+44,Female,35.5,Vegetarian,2,4,2,Never,2.03,1.16,None,Occasional,Former Smoker,Heart Disease,183.1,118.9
+43,Male,19.0,Vegetarian,1,2,4,Never,1.7,1.06,1-2 times/week,Occasional,Current Smoker,Hypertension,187.0,66.5
+44,Female,28.9,Vegan,0,2,1,Never,2.93,0.89,None,None,Current Smoker,Diabetes,152.9,67.6
+40,Female,43.9,Omnivore,1,4,5,Sometimes,3.03,1.69,3-4 times/week,High,Former Smoker,Heart Disease,151.3,100.5
+36,Male,20.9,Vegetarian,4,4,1,Never,1.61,1.69,1-2 times/week,None,Former Smoker,Heart Disease,169.2,59.7
+66,Other,21.2,Omnivore,3,2,1,Never,3.69,0.99,1-2 times/week,Occasional,Non-Smoker,Hypertension,178.1,67.4
+28,Male,28.3,Vegan,0,1,1,Sometimes,2.32,1.24,1-2 times/week,High,Former Smoker,Hypertension,185.3,97.1
+19,Male,36.6,Vegetarian,2,2,4,Always,1.05,1.69,3-4 times/week,Occasional,Non-Smoker,Hypertension,155.7,88.8
+47,Other,21.4,Vegetarian,2,1,3,Always,1.5,0.46,1-2 times/week,Moderate,Current Smoker,None,165.3,58.4
+37,Female,41.4,Vegetarian,3,4,5,Often,1.18,1.69,None,Occasional,Former Smoker,Heart Disease,166.8,115.3
+20,Male,29.7,Pescatarian,3,0,3,Never,1.71,1.39,3-4 times/week,High,Non-Smoker,None,162.2,78.1
+29,Other,26.1,Vegetarian,4,1,1,Sometimes,3.49,1.07,None,High,Non-Smoker,None,153.3,61.3
+27,Female,36.4,Vegetarian,3,4,3,Never,3.79,1.18,3-4 times/week,Moderate,Current Smoker,None,158.6,91.6
+59,Male,24.0,Vegan,3,3,5,Sometimes,2.48,1.15,None,Moderate,Current Smoker,None,180.8,78.3
+68,Male,19.5,Omnivore,0,4,4,Never,2.14,0.33,3-4 times/week,Moderate,Non-Smoker,None,183.9,65.9
+30,Other,24.3,Vegetarian,1,3,3,Rarely,2.63,0.44,5+ times/week,Moderate,Current Smoker,Hypertension,161.3,63.3
+36,Other,16.5,Omnivore,3,2,3,Sometimes,2.96,1.59,3-4 times/week,None,Non-Smoker,Heart Disease,185.4,56.8
+46,Female,17.0,Vegan,1,2,2,Never,1.74,0.5,3-4 times/week,None,Current Smoker,Diabetes,179.3,54.6
+52,Female,15.7,Vegetarian,2,2,3,Often,0.9,0.24,3-4 times/week,High,Former Smoker,Hypertension,182.6,52.5
+58,Female,22.4,Vegetarian,4,4,1,Sometimes,0.86,1.64,1-2 times/week,Moderate,Former Smoker,Heart Disease,158.7,56.4
+39,Other,23.9,Vegan,3,1,3,Always,1.54,1.46,1-2 times/week,Occasional,Former Smoker,Heart Disease,188.9,85.4
+47,Other,20.1,Vegetarian,0,4,2,Rarely,0.72,0.49,5+ times/week,Occasional,Current Smoker,Diabetes,175.1,61.5
+44,Female,27.1,Pescatarian,0,1,4,Sometimes,1.04,1.12,None,Moderate,Non-Smoker,None,152.8,63.2
+68,Male,31.2,Vegan,3,0,4,Rarely,1.81,1.11,5+ times/week,None,Non-Smoker,Hypertension,175.0,95.5
+21,Other,16.6,Pescatarian,2,4,5,Never,2.15,1.11,None,High,Current Smoker,Diabetes,193.4,62.2
+55,Other,29.2,Vegetarian,4,2,1,Often,1.88,1.93,3-4 times/week,Occasional,Current Smoker,Hypertension,164.8,79.4
+47,Male,19.2,Vegetarian,3,1,2,Always,3.22,0.01,5+ times/week,None,Former Smoker,Diabetes,174.6,58.6
+61,Other,30.3,Pescatarian,3,4,1,Never,1.37,0.04,5+ times/week,None,Former Smoker,Heart Disease,170.7,88.2
+54,Other,31.6,Pescatarian,1,3,4,Always,2.68,0.58,None,None,Former Smoker,Diabetes,153.5,74.5
+54,Female,25.5,Pescatarian,1,3,3,Always,2.8,0.39,5+ times/week,Occasional,Current Smoker,Diabetes,197.2,99.1
+55,Male,25.4,Vegan,1,0,1,Always,1.79,1.6,None,None,Non-Smoker,Heart Disease,196.4,97.8
+36,Female,20.9,Vegetarian,4,2,4,Sometimes,1.24,1.04,5+ times/week,Occasional,Current Smoker,Heart Disease,195.7,80.1
+58,Male,22.6,Vegetarian,2,2,5,Never,2.18,0.51,None,High,Current Smoker,None,164.9,61.4
+68,Other,32.9,Vegan,3,1,3,Always,1.43,1.35,None,Moderate,Non-Smoker,Heart Disease,152.5,76.5
+21,Other,19.6,Pescatarian,2,0,1,Rarely,2.97,1.88,1-2 times/week,None,Former Smoker,Heart Disease,170.5,56.9
