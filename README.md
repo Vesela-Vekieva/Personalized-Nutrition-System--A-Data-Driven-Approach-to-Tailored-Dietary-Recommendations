@@ -64,7 +64,7 @@ Personalized-Nutrition-System/
 │
 ├── data/
 │
-├── images/
+├── summary dashboards/
 │
 └── README.md
 ```
